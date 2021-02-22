@@ -1,0 +1,42 @@
+.centered {
+    text-align: center;
+}
+
+.large {
+    font-size: xx-large;
+}
+
+.medium {
+    font-size: medium;
+}
+
+.small {
+    font-size: small;
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+#github {
+    color: #ff0000;
+}
+
+#wordpress {
+    color: #0000ff;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
