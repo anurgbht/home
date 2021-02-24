@@ -10,15 +10,22 @@
 
   <script>
     function GetURLParameter() {
-      const queryString = window.location.search;
-      const urlParams = new URLSearchParams(queryString);
-      const name = urlParams.get("name");
-      if (name.length > 1) {
-        console.log(name);
-        document.getElementById("text-to-fill").innerHTML = name;
-        document.getElementById("text-to-fill-about").innerHTML = name;
+      try {
+        const queryString = window.location.search;
+        const urlParams = new URLSearchParams(queryString);
+        const name = urlParams.get("name");
+        if (name.length > 1) {
+          console.log(name);
+          document.getElementById("text-to-fill").innerHTML = name;
+          document.getElementById("text-to-fill-about").innerHTML = name;
+        }
+        else {
+          console.log("Name not found. Defaulting.");
+          document.getElementById("text-to-fill").innerHTML = "there";
+          document.getElementById("text-to-fill-about").innerHTML = "there";
+        }
       }
-      else {
+      catch (err) {
         console.log("Name not found. Defaulting.");
         document.getElementById("text-to-fill").innerHTML = "there";
         document.getElementById("text-to-fill-about").innerHTML = "there";
