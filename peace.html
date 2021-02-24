@@ -1,58 +1,43 @@
 <!DOCTYPE html>
 
-<!-- Sample homepage to learn Web Development -->
-
 <html lang="en">
 
 <head>
-    <meta charset="utf-8" />
-    <title>Home Page, Anurag Bhatt</title>
+    <style>
+        .center-screen {
+            display: flex;
+            font-size: larger;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            min-height: 100vh;
+        }
+    </style>
+    <script>
 
-    <link href="styles.css" rel="stylesheet">
-    <script type="text/javascript" src="scripts.js"></script>
-    <script type="text/javascript" src="https://d3js.org/d3.v4.min.js"></script>
+        // Toggles visibility of greeting
+        function blink() {
+            let body = document.querySelector('body');
+            if (body.style.visibility == 'hidden') {
+                body.style.visibility = 'visible';
+            }
+            else {
+                body.style.visibility = 'hidden';
+            }
+        }
+
+        // Blink every 500ms
+        window.setInterval(blink, 1000);
+
+    </script>
+    <title>Let Peace Reign</title>
 </head>
 
-<body class="centered">
-    <header class="large">
-        Anurag Bhatt
-    </header>
-    <hr>
-    <main class="medium">
-        Welcome to the peace section.
-
-    </main>
-    <hr>
-
-
-    <!-- Footer Section Start -->
-    <footer class="footer-area section-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="footer-text text-center wow fadeInDown" data-wow-delay="0.3s">
-                        <ul class="social-icon">
-                            <li>
-                                <a class="linkedin" href="https://www.linkedin.com/in/anuraagbhatt/"><i
-                                        class="icon-social-linkedin"></i></a>
-                            </li>
-                            <li>
-                                <a class="github" href="https://github.com/anurgbht"><i
-                                        class="icon-social-github"></i></a>
-                            </li>
-                            <li>
-                                <a class="wordpress" href="https://anuraagbhatt.wordpress.com/"><i
-                                        class="icon-notebook"></i></a>
-                            </li>
-                        </ul>
-                        <p>Copyright © 2020 Anurag Bhatt</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
-    <!-- Footer Section End -->
-
+<body>
+    <div class = "center-screen">
+        Let Peace Reign
+    </div>
 </body>
 
 </html>
