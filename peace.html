@@ -3,62 +3,56 @@
 <html>
 
 <head>
+    <title>D3 test</title>
     <meta charset="utf-8">
+    <script src="https://d3js.org/d3.v3.min.js"></script>
+    <script>
+        function onload() {
+            var mouse = [480, 250],
+                count = 0;
+
+            var svg = d3.select("body").append("svg")
+                .attr("width", "100%")
+                .attr("height", "5000px");
+
+            var g = svg.selectAll("g")
+                .data(d3.range(25))
+                .enter().append("g")
+                .attr("transform", "translate(" + mouse + ")");
+
+            g.append("rect")
+                .attr("rx", 6)
+                .attr("ry", 6)
+                .attr("x", -12.5)
+                .attr("y", -12.5)
+                .attr("width", 25)
+                .attr("height", 25)
+                .attr("transform", function (d, i) { return "scale(" + (1 - d / 25) * 20 + ")"; })
+                .style("fill", d3.scale.category20c());
+
+            g.datum(function (d) {
+                return { center: mouse.slice(), angle: 0 };
+            });
+
+            svg.on("mousemove", function () {
+                mouse = d3.mouse(this);
+            });
+
+            d3.timer(function () {
+                count++;
+                g.attr("transform", function (d, i) {
+                    d.center[0] += (mouse[0] - d.center[0]) / (i + 5);
+                    d.center[1] += (mouse[1] - d.center[1]) / (i + 5);
+                    d.angle += Math.sin((count + i) / 10) * 7;
+                    return "translate(" + d.center + ")rotate(" + d.angle + ")";
+                });
+            });
+        }
+    </script>
 </head>
 
-<body>
-    <h1>World peace is on its way!</h1>
-    <script src="//d3js.org/d3.v3.min.js"></script>
-    <script>
-
-        var mouse = [480, 250],
-            count = 0;
-
-        var svg = d3.select("body").append("svg")
-            .attr("width", 960)
-            .attr("height", 500);
-
-        var g = svg.selectAll("g")
-            .data(d3.range(25))
-            .enter().append("g")
-            .attr("transform", "translate(" + mouse + ")");
-
-        g.append("rect")
-            .attr("rx", 6)
-            .attr("ry", 6)
-            .attr("x", -12.5)
-            .attr("y", -12.5)
-            .attr("width", 25)
-            .attr("height", 25)
-            .attr("transform", function (d, i) { return "scale(" + (1 - d / 25) * 20 + ")"; })
-            .style("fill", d3.scale.category20c());
-
-        g.datum(function (d) {
-            return { center: mouse.slice(), angle: 0 };
-        });
-
-        svg.on("mousemove", function () {
-            mouse = d3.mouse(this);
-        });
-
-        d3.timer(function () {
-            count++;
-            g.attr("transform", function (d, i) {
-                d.center[0] += (mouse[0] - d.center[0]) / (i + 5);
-                d.center[1] += (mouse[1] - d.center[1]) / (i + 5);
-                d.angle += Math.sin((count + i) / 10) * 7;
-                return "translate(" + d.center + ")rotate(" + d.angle + ")";
-            });
-        });
-
-    </script>
-
-    <svg width="960" height="500">
-        <g transform="translate(252.00000000000006,406.9999999999999)rotate(131.18225439799429)">
-            <rect rx="6" ry="6" x="-12.5" y="-12.5" width="25" height="25" transform="scale(20)"
-                style="fill: rgb(49, 130, 189);"></rect>
-        </g>
-    </svg>
+<body onload="onload()">
+    <h1 style="text-align: center;">World peace is on its way.</h1>
 </body>
 
 </html>
