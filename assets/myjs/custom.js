@@ -8,19 +8,22 @@ function onload() {
     .attr("width", "100%")
     .attr("height", "5000px");
 
+  var nsq = 25;
+
   var g = svg.selectAll("g")
-    .data(d3.range(25))
+    .data(d3.range(nsq))
     .enter().append("g")
     .attr("transform", "translate(" + mouse + ")");
+
 
   g.append("rect")
     .attr("rx", 6)
     .attr("ry", 6)
-    .attr("x", -12.5)
-    .attr("y", -12.5)
-    .attr("width", 25)
-    .attr("height", 25)
-    .attr("transform", function (d, i) { return "scale(" + (1 - d / 25) * 20 + ")"; })
+    .attr("x", -nsq / 2)
+    .attr("y", -nsq / 2)
+    .attr("width", nsq)
+    .attr("height", nsq)
+    .attr("transform", function (d, i) { return "scale(" + (1 - d / nsq) * nsq + ")"; })
     .style("fill", d3.scale.category20c());
 
   g.datum(function (d) {
@@ -42,6 +45,6 @@ function onload() {
   });
 }
 
-function sample(){
+function sample() {
   alert("here")
 }
