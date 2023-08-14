@@ -12,6 +12,7 @@ character_map = {}
 
 for character_name, relation_dict in character_dict.items():
     father_name = str(relation_dict["Father"])
+    mother_name = str(relation_dict["Mother"])
 
     if character_name not in character_list:
         character_list.append(character_name)
@@ -29,6 +30,20 @@ for character_name, relation_dict in character_dict.items():
             "source": character_name,
             "target": father_name,
             "value": 1,
+        }
+        link_list.append(temp_link)
+
+    if mother_name not in character_list:
+        if mother_name != "nan":
+            character_list.append(mother_name)
+            temp_node = {"id": mother_name, "group": 2}
+            node_list.append(temp_node)
+
+    if mother_name != "nan":
+        temp_link = {
+            "source": character_name,
+            "target": mother_name,
+            "value": 2,
         }
         link_list.append(temp_link)
 
