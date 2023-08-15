@@ -9,12 +9,16 @@
             "group": 1
         },
         {
-            "id": "Arjun",
+            "id": "Arjuna",
             "group": 1
         },
         {
             "id": "Subhadra",
             "group": 2
+        },
+        {
+            "id": "Parikshita",
+            "group": 3
         },
         {
             "id": "Aditi",
@@ -25,8 +29,60 @@
             "group": 1
         },
         {
+            "id": "Dhatu",
+            "group": 3
+        },
+        {
+            "id": "Mitra",
+            "group": 3
+        },
+        {
+            "id": "Aryamana",
+            "group": 3
+        },
+        {
+            "id": "Indra",
+            "group": 3
+        },
+        {
+            "id": "Varuna",
+            "group": 3
+        },
+        {
+            "id": "Amsha",
+            "group": 3
+        },
+        {
+            "id": "Bhaga",
+            "group": 3
+        },
+        {
+            "id": "Vivasvana",
+            "group": 3
+        },
+        {
+            "id": "Pusha",
+            "group": 3
+        },
+        {
+            "id": "Savita",
+            "group": 3
+        },
+        {
+            "id": "Vishnu",
+            "group": 3
+        },
+        {
             "id": "Adrika",
             "group": 1
+        },
+        {
+            "id": "Matsya",
+            "group": 3
+        },
+        {
+            "id": "Satyavati",
+            "group": 3
         },
         {
             "id": "Aindila",
@@ -37,11 +93,11 @@
             "group": 1
         },
         {
-            "id": "Airavat",
+            "id": "Airavata",
             "group": 1
         },
         {
-            "id": "Kashyap",
+            "id": "Kashyapa",
             "group": 1
         },
         {
@@ -57,7 +113,23 @@
             "group": 1
         },
         {
-            "id": "Pandu, Indra",
+            "id": "Vikshara",
+            "group": 3
+        },
+        {
+            "id": "Bala",
+            "group": 3
+        },
+        {
+            "id": "Vira",
+            "group": 3
+        },
+        {
+            "id": "Vritra",
+            "group": 3
+        },
+        {
+            "id": "Pandu",
             "group": 1
         },
         {
@@ -65,7 +137,7 @@
             "group": 2
         },
         {
-            "id": "Arun",
+            "id": "Aruna",
             "group": 1
         },
         {
@@ -85,11 +157,11 @@
             "group": 1
         },
         {
-            "id": "Jaratkaru(M)",
+            "id": "JaratkaruM",
             "group": 1
         },
         {
-            "id": "Jaratkaru(F)",
+            "id": "JaratkaruF",
             "group": 2
         },
         {
@@ -105,7 +177,7 @@
             "group": 1
         },
         {
-            "id": "Takshak",
+            "id": "Takshaka",
             "group": 1
         },
         {
@@ -117,16 +189,20 @@
             "group": 1
         },
         {
+            "id": "Bana",
+            "group": 3
+        },
+        {
             "id": "Bhagiratha",
             "group": 1
         },
         {
-            "id": "Bhim",
+            "id": "Bhima",
             "group": 1
         },
         {
-            "id": "Pandu, Varun",
-            "group": 1
+            "id": "Ghatotkacha",
+            "group": 3
         },
         {
             "id": "Bhishma",
@@ -145,12 +221,76 @@
             "group": 1
         },
         {
+            "id": "Chyavana",
+            "group": 3
+        },
+        {
             "id": "Bibhatsu",
             "group": 1
         },
         {
             "id": "Bodhapingala",
             "group": 1
+        },
+        {
+            "id": "Marichi",
+            "group": 3
+        },
+        {
+            "id": "Atri",
+            "group": 3
+        },
+        {
+            "id": "Angirasa",
+            "group": 3
+        },
+        {
+            "id": "Pulastya",
+            "group": 3
+        },
+        {
+            "id": "Pulaha",
+            "group": 3
+        },
+        {
+            "id": "Kratu",
+            "group": 3
+        },
+        {
+            "id": "Diti",
+            "group": 3
+        },
+        {
+            "id": "Danu",
+            "group": 3
+        },
+        {
+            "id": "Kala",
+            "group": 3
+        },
+        {
+            "id": "Simhika",
+            "group": 3
+        },
+        {
+            "id": "Muni",
+            "group": 3
+        },
+        {
+            "id": "Krodha",
+            "group": 3
+        },
+        {
+            "id": "Prava",
+            "group": 3
+        },
+        {
+            "id": "Arishta",
+            "group": 3
+        },
+        {
+            "id": "Kapila",
+            "group": 3
         },
         {
             "id": "Chakra",
@@ -165,24 +305,200 @@
             "group": 1
         },
         {
-            "id": "Chyavan",
-            "group": 1
-        },
-        {
             "id": "Puloma",
             "group": 2
+        },
+        {
+            "id": "Pramati",
+            "group": 3
         },
         {
             "id": "Dambhodbhava",
             "group": 1
         },
         {
-            "id": "Danu",
+            "id": "Viprachitti",
+            "group": 3
+        },
+        {
+            "id": "Shambara",
+            "group": 3
+        },
+        {
+            "id": "Namuchi",
+            "group": 3
+        },
+        {
+            "id": "Pulomana",
+            "group": 3
+        },
+        {
+            "id": "Asilomana",
+            "group": 3
+        },
+        {
+            "id": "Keshi",
+            "group": 3
+        },
+        {
+            "id": "Durjaya",
+            "group": 3
+        },
+        {
+            "id": "Ayashira",
+            "group": 3
+        },
+        {
+            "id": "Ashvashira",
+            "group": 3
+        },
+        {
+            "id": "Ashvashanku",
+            "group": 3
+        },
+        {
+            "id": "Gaganamurdhana",
+            "group": 3
+        },
+        {
+            "id": "Vegavana",
+            "group": 3
+        },
+        {
+            "id": "Ketumana",
+            "group": 3
+        },
+        {
+            "id": "Svarbhanu",
+            "group": 3
+        },
+        {
+            "id": "Ashva",
+            "group": 3
+        },
+        {
+            "id": "Ashvapati",
+            "group": 3
+        },
+        {
+            "id": "Vrishaparva",
+            "group": 3
+        },
+        {
+            "id": "Ajaka",
+            "group": 3
+        },
+        {
+            "id": "Ashvagriva",
+            "group": 3
+        },
+        {
+            "id": "Sukshma",
+            "group": 3
+        },
+        {
+            "id": "Tuhundu",
+            "group": 3
+        },
+        {
+            "id": "Isripa",
+            "group": 3
+        },
+        {
+            "id": "Ekachakra",
+            "group": 3
+        },
+        {
+            "id": "Virupaksha",
+            "group": 3
+        },
+        {
+            "id": "Hara",
+            "group": 3
+        },
+        {
+            "id": "Ahara",
+            "group": 3
+        },
+        {
+            "id": "Nichandra",
+            "group": 3
+        },
+        {
+            "id": "Nikumbha",
+            "group": 3
+        },
+        {
+            "id": "Kupatha",
+            "group": 3
+        },
+        {
+            "id": "Kapatha",
+            "group": 3
+        },
+        {
+            "id": "Sharabha",
+            "group": 3
+        },
+        {
+            "id": "Shalabha",
+            "group": 3
+        },
+        {
+            "id": "Surya",
+            "group": 3
+        },
+        {
+            "id": "Chandrama",
+            "group": 3
+        },
+        {
+            "id": "Ekaksha",
+            "group": 3
+        },
+        {
+            "id": "Mritapa",
+            "group": 3
+        },
+        {
+            "id": "Pralamba",
+            "group": 3
+        },
+        {
+            "id": "Naraka",
+            "group": 3
+        },
+        {
+            "id": "Vatapi",
+            "group": 3
+        },
+        {
+            "id": "Shatrutapana",
+            "group": 3
+        },
+        {
+            "id": "Shatha",
+            "group": 3
+        },
+        {
+            "id": "Gavishtha",
+            "group": 3
+        },
+        {
+            "id": "Danayu",
+            "group": 3
+        },
+        {
+            "id": "Dirghajihva",
+            "group": 3
+        },
+        {
+            "id": "Dashratha",
             "group": 1
         },
         {
-            "id": "Dashrath",
-            "group": 1
+            "id": "Rama",
+            "group": 3
         },
         {
             "id": "Devala",
@@ -205,8 +521,16 @@
             "group": 1
         },
         {
-            "id": "Shantanu, Vyasa",
+            "id": "Vyasa",
             "group": 1
+        },
+        {
+            "id": "Duryodhana",
+            "group": 3
+        },
+        {
+            "id": "Yuyutsu",
+            "group": 3
         },
         {
             "id": "Dhurtaka",
@@ -217,8 +541,8 @@
             "group": 1
         },
         {
-            "id": "Diti",
-            "group": 1
+            "id": "Hiranyakashipu",
+            "group": 3
         },
         {
             "id": "Dranga",
@@ -229,23 +553,47 @@
             "group": 1
         },
         {
-            "id": "Drupad",
+            "id": "Drupada",
             "group": 1
+        },
+        {
+            "id": "Prativindhya",
+            "group": 3
+        },
+        {
+            "id": "Shrutakirti",
+            "group": 3
+        },
+        {
+            "id": "Sutasoma",
+            "group": 3
+        },
+        {
+            "id": "Shatanika",
+            "group": 3
+        },
+        {
+            "id": "Shrutasena",
+            "group": 3
         },
         {
             "id": "Drona",
             "group": 1
         },
         {
-            "id": "Bhardwaj",
+            "id": "Bhardwaja",
             "group": 1
+        },
+        {
+            "id": "Ashvatthama",
+            "group": 3
+        },
+        {
+            "id": "Shikhandi",
+            "group": 3
         },
         {
             "id": "Duhshashana",
-            "group": 1
-        },
-        {
-            "id": "Duryodhana",
             "group": 1
         },
         {
@@ -261,12 +609,20 @@
             "group": 1
         },
         {
-            "id": "Gaurmukh",
+            "id": "Gaurmukha",
             "group": 1
         },
         {
             "id": "Goutama",
             "group": 1
+        },
+        {
+            "id": "Kripacharya",
+            "group": 3
+        },
+        {
+            "id": "Kripi",
+            "group": 3
         },
         {
             "id": "Halisaka",
@@ -281,8 +637,24 @@
             "group": 1
         },
         {
-            "id": "Hiranyakashipu",
-            "group": 1
+            "id": "Prahlada",
+            "group": 3
+        },
+        {
+            "id": "Samhrada",
+            "group": 3
+        },
+        {
+            "id": "Anuhrada",
+            "group": 3
+        },
+        {
+            "id": "Shibi",
+            "group": 3
+        },
+        {
+            "id": "Bashkala",
+            "group": 3
         },
         {
             "id": "Hiranyavaha",
@@ -293,16 +665,28 @@
             "group": 1
         },
         {
-            "id": "Indra",
-            "group": 1
+            "id": "Ruru",
+            "group": 3
         },
         {
             "id": "Janamejaya",
             "group": 1
         },
         {
-            "id": "Parikshit",
-            "group": 1
+            "id": "Shesha",
+            "group": 3
+        },
+        {
+            "id": "Ananta",
+            "group": 3
+        },
+        {
+            "id": "Kurma",
+            "group": 3
+        },
+        {
+            "id": "Kulika",
+            "group": 3
         },
         {
             "id": "Kahoda",
@@ -313,8 +697,20 @@
             "group": 1
         },
         {
-            "id": "Kala",
-            "group": 1
+            "id": "Vinashana",
+            "group": 3
+        },
+        {
+            "id": "Krodha2",
+            "group": 3
+        },
+        {
+            "id": "Krodhahanta",
+            "group": 3
+        },
+        {
+            "id": "Krodhashatru",
+            "group": 3
         },
         {
             "id": "Kaladantaka",
@@ -322,10 +718,6 @@
         },
         {
             "id": "Karna",
-            "group": 1
-        },
-        {
-            "id": "Surya",
             "group": 1
         },
         {
@@ -389,6 +781,10 @@
             "group": 1
         },
         {
+            "id": "Yudhishthira",
+            "group": 3
+        },
+        {
             "id": "Kutighata",
             "group": 1
         },
@@ -437,28 +833,84 @@
             "group": 1
         },
         {
-            "id": "Muni",
-            "group": 1
+            "id": "Bhimasena",
+            "group": 3
+        },
+        {
+            "id": "Ugrasena",
+            "group": 3
+        },
+        {
+            "id": "Suparna",
+            "group": 3
+        },
+        {
+            "id": "Varuna2",
+            "group": 3
+        },
+        {
+            "id": "Gopati",
+            "group": 3
+        },
+        {
+            "id": "Dhritarashtra2",
+            "group": 3
+        },
+        {
+            "id": "Suryavarcha",
+            "group": 3
+        },
+        {
+            "id": "Pattravana",
+            "group": 3
+        },
+        {
+            "id": "Arkapana",
+            "group": 3
+        },
+        {
+            "id": "Prayuta",
+            "group": 3
+        },
+        {
+            "id": "Bhima2",
+            "group": 3
+        },
+        {
+            "id": "Chitraratha",
+            "group": 3
+        },
+        {
+            "id": "Shalishira",
+            "group": 3
+        },
+        {
+            "id": "Pradyumna",
+            "group": 3
+        },
+        {
+            "id": "Kali",
+            "group": 3
+        },
+        {
+            "id": "Narada",
+            "group": 3
         },
         {
             "id": "Nabhaga",
             "group": 1
         },
         {
-            "id": "Nakul",
+            "id": "Nakula",
             "group": 1
         },
         {
-            "id": "Ashwini, Pandu",
+            "id": "Ashwini",
             "group": 1
         },
         {
             "id": "Madri",
             "group": 2
-        },
-        {
-            "id": "Narada",
-            "group": 1
         },
         {
             "id": "Nriga",
@@ -481,15 +933,11 @@
             "group": 1
         },
         {
-            "id": "Pandu",
-            "group": 1
+            "id": "Sahadeva",
+            "group": 3
         },
         {
-            "id": "Vyasa, Shantanu",
-            "group": 1
-        },
-        {
-            "id": "Parashuram",
+            "id": "Parashurama",
             "group": 1
         },
         {
@@ -499,6 +947,18 @@
         {
             "id": "Paravata",
             "group": 1
+        },
+        {
+            "id": "Upgradena",
+            "group": 3
+        },
+        {
+            "id": "Shrutsena",
+            "group": 3
+        },
+        {
+            "id": "Bhimsena",
+            "group": 3
         },
         {
             "id": "Pariyatra",
@@ -529,8 +989,8 @@
             "group": 1
         },
         {
-            "id": "Prahlada",
-            "group": 1
+            "id": "Kumbha",
+            "group": 3
         },
         {
             "id": "Prakalana",
@@ -541,12 +1001,16 @@
             "group": 1
         },
         {
-            "id": "Vishvavasu, Sthoolkesh",
+            "id": "Vishvavasu",
             "group": 1
         },
         {
-            "id": "Pramati",
+            "id": "Sthoolkesha",
             "group": 1
+        },
+        {
+            "id": "Sunaka",
+            "group": 3
         },
         {
             "id": "Sukanta",
@@ -581,23 +1045,11 @@
             "group": 1
         },
         {
-            "id": "Rama",
-            "group": 1
-        },
-        {
             "id": "Rantideva",
             "group": 1
         },
         {
-            "id": "Ruru",
-            "group": 1
-        },
-        {
             "id": "Saha",
-            "group": 1
-        },
-        {
-            "id": "Sahadeva",
             "group": 1
         },
         {
@@ -629,15 +1081,7 @@
             "group": 1
         },
         {
-            "id": "Satyavati",
-            "group": 1
-        },
-        {
-            "id": "Saunak",
-            "group": 1
-        },
-        {
-            "id": "Sunak",
+            "id": "Saunaka",
             "group": 1
         },
         {
@@ -653,12 +1097,16 @@
             "group": 1
         },
         {
-            "id": "Shamik",
+            "id": "Shamika",
             "group": 1
         },
         {
-            "id": "Sharabha",
-            "group": 1
+            "id": "Shringi",
+            "group": 3
+        },
+        {
+            "id": "Vidura",
+            "group": 3
         },
         {
             "id": "Sharana",
@@ -677,7 +1125,7 @@
             "group": 1
         },
         {
-            "id": "Sheshnaag",
+            "id": "Sheshnaaga",
             "group": 1
         },
         {
@@ -693,11 +1141,7 @@
             "group": 1
         },
         {
-            "id": "Shringi",
-            "group": 1
-        },
-        {
-            "id": "Cow",
+            "id": "Cowa",
             "group": 2
         },
         {
@@ -705,12 +1149,28 @@
             "group": 1
         },
         {
+            "id": "Tvashtavara",
+            "group": 3
+        },
+        {
+            "id": "Atri2",
+            "group": 3
+        },
+        {
             "id": "Shvetketu",
             "group": 1
         },
         {
-            "id": "Simhika",
-            "group": 1
+            "id": "Suchandra",
+            "group": 3
+        },
+        {
+            "id": "Chandraharta",
+            "group": 3
+        },
+        {
+            "id": "Chandraravimardana",
+            "group": 3
         },
         {
             "id": "Skandha",
@@ -745,7 +1205,7 @@
             "group": 1
         },
         {
-            "id": "Lomaharshan",
+            "id": "Lomaharshana",
             "group": 1
         },
         {
@@ -759,6 +1219,26 @@
         {
             "id": "Puru",
             "group": 1
+        },
+        {
+            "id": "Brihadaratha",
+            "group": 3
+        },
+        {
+            "id": "Kushamba",
+            "group": 3
+        },
+        {
+            "id": "Pratyagraha",
+            "group": 3
+        },
+        {
+            "id": "Macchila",
+            "group": 3
+        },
+        {
+            "id": "Yadu",
+            "group": 3
         },
         {
             "id": "Urvashi",
@@ -781,11 +1261,7 @@
             "group": 1
         },
         {
-            "id": "Suvarnavarman",
-            "group": 1
-        },
-        {
-            "id": "Varuna",
+            "id": "Suvarnavarmana",
             "group": 1
         },
         {
@@ -793,7 +1269,7 @@
             "group": 1
         },
         {
-            "id": "Ved",
+            "id": "Veda",
             "group": 1
         },
         {
@@ -805,32 +1281,32 @@
             "group": 1
         },
         {
-            "id": "Vidura",
+            "id": "Vihanga",
             "group": 1
         },
         {
-            "id": "Vihanga",
-            "group": 1
+            "id": "tarkshya",
+            "group": 3
+        },
+        {
+            "id": "Arishtanemi",
+            "group": 3
+        },
+        {
+            "id": "Varuni",
+            "group": 3
         },
         {
             "id": "Virohana",
             "group": 1
         },
         {
-            "id": "Vishnu",
-            "group": 1
-        },
-        {
-            "id": "Vishvavasu",
-            "group": 1
-        },
-        {
-            "id": "Vyasa",
-            "group": 1
-        },
-        {
             "id": "Parashara",
             "group": 1
+        },
+        {
+            "id": "Shuka",
+            "group": 3
         },
         {
             "id": "Yama",
@@ -841,702 +1317,1693 @@
             "group": 1
         },
         {
-            "id": "Yayavar",
+            "id": "Yayavara",
             "group": 1
         },
         {
-            "id": "Yudhishthira",
-            "group": 1
-        },
-        {
-            "id": "Pandu, Dharma",
-            "group": 1
+            "id": "Jaratkaru",
+            "group": 3
         }
     ],
     "links": [
         {
-            "source": "Abhimanyu",
-            "target": "Arjun",
-            "value": 1
-        },
-        {
-            "source": "Abhimanyu",
-            "target": "Subhadra",
-            "value": 2
-        },
-        {
-            "source": "Aditi",
-            "target": "Brahma",
-            "value": 1
-        },
-        {
-            "source": "Aindila",
-            "target": "Kouravya",
-            "value": 1
-        },
-        {
-            "source": "Airavat",
-            "target": "Kashyap",
-            "value": 1
-        },
-        {
-            "source": "Airavat",
-            "target": "Kadru",
-            "value": 2
-        },
-        {
-            "source": "Anayu",
-            "target": "Brahma",
-            "value": 1
-        },
-        {
-            "source": "Arjun",
-            "target": "Pandu, Indra",
-            "value": 1
-        },
-        {
-            "source": "Arjun",
-            "target": "Kunti",
-            "value": 2
-        },
-        {
-            "source": "Arun",
-            "target": "Kashyap",
-            "value": 1
-        },
-        {
-            "source": "Arun",
-            "target": "Vinata",
-            "value": 2
-        },
-        {
-            "source": "Astika",
-            "target": "Jaratkaru(M)",
-            "value": 1
-        },
-        {
-            "source": "Astika",
-            "target": "Jaratkaru(F)",
-            "value": 2
-        },
-        {
-            "source": "Bahuka",
-            "target": "Kouravya",
-            "value": 1
-        },
-        {
-            "source": "Balaheda",
-            "target": "Takshak",
-            "value": 1
-        },
-        {
-            "source": "Bali",
-            "target": "Virochana",
-            "value": 1
-        },
-        {
-            "source": "Bhim",
-            "target": "Pandu, Varun",
-            "value": 1
-        },
-        {
-            "source": "Bhim",
-            "target": "Kunti",
-            "value": 2
-        },
-        {
-            "source": "Bhishma",
-            "target": "Shantanu",
-            "value": 1
-        },
-        {
-            "source": "Bhishma",
-            "target": "Ganga",
-            "value": 2
-        },
-        {
-            "source": "Bhrigu",
-            "target": "Brahma",
-            "value": 1
-        },
-        {
-            "source": "Chakra",
-            "target": "Vasuki",
-            "value": 1
-        },
-        {
-            "source": "Chyavan",
-            "target": "Bhrigu",
-            "value": 1
-        },
-        {
-            "source": "Chyavan",
-            "target": "Puloma",
-            "value": 2
-        },
-        {
-            "source": "Danu",
-            "target": "Brahma",
-            "value": 1
-        },
-        {
-            "source": "Dhritarashtra",
-            "target": "Shantanu, Vyasa",
-            "value": 1
-        },
-        {
-            "source": "Dhurtaka",
-            "target": "Kouravya",
-            "value": 1
-        },
-        {
-            "source": "Diti",
-            "target": "Brahma",
-            "value": 1
-        },
-        {
-            "source": "Dranga",
-            "target": "Takshak",
-            "value": 1
-        },
-        {
-            "source": "Draupadi",
-            "target": "Drupad",
-            "value": 1
-        },
-        {
-            "source": "Drona",
-            "target": "Bhardwaj",
-            "value": 1
-        },
-        {
-            "source": "Duryodhana",
-            "target": "Dhritarashtra",
-            "value": 1
-        },
-        {
-            "source": "Duryodhana",
-            "target": "Gandhari",
-            "value": 2
-        },
-        {
-            "source": "Gandhari",
-            "target": "Subala",
-            "value": 1
-        },
-        {
-            "source": "Garuda",
-            "target": "Kashyap",
-            "value": 1
-        },
-        {
-            "source": "Garuda",
-            "target": "Vinata",
-            "value": 2
-        },
-        {
-            "source": "Halisaka",
-            "target": "Vasuki",
-            "value": 1
-        },
-        {
-            "source": "Harina",
-            "target": "Airavat",
-            "value": 1
-        },
-        {
-            "source": "Hiranyakashipu",
-            "target": "Diti",
-            "value": 2
-        },
-        {
-            "source": "Hiranyavaha",
-            "target": "Vasuki",
-            "value": 1
-        },
-        {
-            "source": "Janamejaya",
-            "target": "Parikshit",
-            "value": 1
-        },
-        {
-            "source": "Kadru",
-            "target": "Brahma",
-            "value": 1
-        },
-        {
-            "source": "Kakshaka",
-            "target": "Vasuki",
-            "value": 1
-        },
-        {
-            "source": "Kala",
-            "target": "Brahma",
-            "value": 1
-        },
-        {
-            "source": "Kaladantaka",
-            "target": "Vasuki",
-            "value": 1
-        },
-        {
-            "source": "Karna",
-            "target": "Surya",
-            "value": 1
-        },
-        {
-            "source": "Karna",
-            "target": "Kunti",
-            "value": 2
-        },
-        {
-            "source": "Konapa",
-            "target": "Vasuki",
-            "value": 1
-        },
-        {
-            "source": "Konavega",
-            "target": "Vasuki",
-            "value": 1
-        },
-        {
-            "source": "Kotika",
-            "target": "Vasuki",
-            "value": 1
-        },
-        {
-            "source": "Krisha",
-            "target": "Airavat",
-            "value": 1
-        },
-        {
-            "source": "Krishna",
-            "target": "Vasudeva",
-            "value": 1
-        },
-        {
-            "source": "Krishna",
-            "target": "Devaki",
-            "value": 2
-        },
-        {
-            "source": "Kritavarma",
-            "target": "Satyaka",
-            "value": 1
-        },
-        {
-            "source": "Kritavarma",
-            "target": "Hridika",
-            "value": 2
-        },
-        {
-            "source": "Kumaraka",
-            "target": "Kouravya",
-            "value": 1
-        },
-        {
-            "source": "Kundala",
-            "target": "Kouravya",
-            "value": 1
-        },
-        {
-            "source": "Manasa",
-            "target": "Vasuki",
-            "value": 1
-        },
-        {
-            "source": "Mandalaka",
-            "target": "Takshak",
-            "value": 1
-        },
-        {
-            "source": "Moda",
-            "target": "Airavat",
-            "value": 1
-        },
-        {
-            "source": "Mudgara",
-            "target": "Takshak",
-            "value": 1
-        },
-        {
-            "source": "Muka",
-            "target": "Takshak",
-            "value": 1
-        },
-        {
-            "source": "Mundo",
-            "target": "Kouravya",
-            "value": 1
-        },
-        {
-            "source": "Muni",
-            "target": "Brahma",
-            "value": 1
-        },
-        {
-            "source": "Nakul",
-            "target": "Ashwini, Pandu",
-            "value": 1
-        },
-        {
-            "source": "Nakul",
-            "target": "Madri",
-            "value": 2
-        },
-        {
-            "source": "Paila",
-            "target": "Vasuki",
-            "value": 1
-        },
-        {
-            "source": "Pandara",
-            "target": "Airavat",
-            "value": 1
-        },
-        {
-            "source": "Pandu",
-            "target": "Vyasa, Shantanu",
-            "value": 1
-        },
-        {
-            "source": "Parashuram",
-            "target": "Jamadagni",
-            "value": 1
-        },
-        {
-            "source": "Paravata",
-            "target": "Airavat",
-            "value": 1
-        },
-        {
-            "source": "Parikshit",
+            "source": "Arjuna",
             "target": "Abhimanyu",
             "value": 1
         },
         {
-            "source": "Pariyatra",
-            "target": "Airavat",
-            "value": 1
-        },
-        {
-            "source": "Pata",
-            "target": "Kouravya",
-            "value": 1
-        },
-        {
-            "source": "Patara",
-            "target": "Kouravya",
-            "value": 1
-        },
-        {
-            "source": "Picchila",
-            "target": "Vasuki",
-            "value": 1
-        },
-        {
-            "source": "Pindabhetta",
-            "target": "Takshak",
-            "value": 1
-        },
-        {
-            "source": "Prahlada",
-            "target": "Hiranyakashipu",
-            "value": 1
-        },
-        {
-            "source": "Prakalana",
-            "target": "Vasuki",
-            "value": 1
-        },
-        {
-            "source": "Pramadvara",
-            "target": "Vishvavasu, Sthoolkesh",
-            "value": 1
-        },
-        {
-            "source": "Pramadvara",
-            "target": "Menaka",
+            "source": "Subhadra",
+            "target": "Abhimanyu",
             "value": 2
         },
         {
-            "source": "Pramati",
-            "target": "Chyavan",
+            "source": "Abhimanyu",
+            "target": "Parikshita",
+            "value": 3
+        },
+        {
+            "source": "Brahma",
+            "target": "Aditi",
             "value": 1
         },
         {
-            "source": "Pramati",
-            "target": "Sukanta",
+            "source": "Aditi",
+            "target": "Dhatu",
+            "value": 3
+        },
+        {
+            "source": "Aditi",
+            "target": "Mitra",
+            "value": 3
+        },
+        {
+            "source": "Aditi",
+            "target": "Aryamana",
+            "value": 3
+        },
+        {
+            "source": "Aditi",
+            "target": "Indra",
+            "value": 3
+        },
+        {
+            "source": "Aditi",
+            "target": "Varuna",
+            "value": 3
+        },
+        {
+            "source": "Aditi",
+            "target": "Amsha",
+            "value": 3
+        },
+        {
+            "source": "Aditi",
+            "target": "Bhaga",
+            "value": 3
+        },
+        {
+            "source": "Aditi",
+            "target": "Vivasvana",
+            "value": 3
+        },
+        {
+            "source": "Aditi",
+            "target": "Pusha",
+            "value": 3
+        },
+        {
+            "source": "Aditi",
+            "target": "Savita",
+            "value": 3
+        },
+        {
+            "source": "Aditi",
+            "target": "Vishnu",
+            "value": 3
+        },
+        {
+            "source": "Adrika",
+            "target": "Matsya",
+            "value": 3
+        },
+        {
+            "source": "Adrika",
+            "target": "Satyavati",
+            "value": 3
+        },
+        {
+            "source": "Kouravya",
+            "target": "Aindila",
+            "value": 1
+        },
+        {
+            "source": "Kashyapa",
+            "target": "Airavata",
+            "value": 1
+        },
+        {
+            "source": "Kadru",
+            "target": "Airavata",
             "value": 2
         },
         {
-            "source": "Pramoda",
-            "target": "Airavat",
+            "source": "Brahma",
+            "target": "Anayu",
             "value": 1
         },
         {
-            "source": "Pravepana",
-            "target": "Takshak",
+            "source": "Anayu",
+            "target": "Vikshara",
+            "value": 3
+        },
+        {
+            "source": "Anayu",
+            "target": "Bala",
+            "value": 3
+        },
+        {
+            "source": "Anayu",
+            "target": "Vira",
+            "value": 3
+        },
+        {
+            "source": "Anayu",
+            "target": "Vritra",
+            "value": 3
+        },
+        {
+            "source": "Pandu",
+            "target": "Arjuna",
             "value": 1
         },
         {
-            "source": "Pucchandaka",
-            "target": "Takshak",
+            "source": "Indra",
+            "target": "Arjuna",
             "value": 1
         },
         {
-            "source": "Purna",
-            "target": "Vasuki",
-            "value": 1
-        },
-        {
-            "source": "Rabhenaka",
-            "target": "Takshak",
-            "value": 1
-        },
-        {
-            "source": "Rama",
-            "target": "Dashrath",
-            "value": 1
-        },
-        {
-            "source": "Ruru",
-            "target": "Pramati",
-            "value": 1
-        },
-        {
-            "source": "Ruru",
-            "target": "Hritachi",
+            "source": "Kunti",
+            "target": "Arjuna",
             "value": 2
         },
         {
-            "source": "Saha",
-            "target": "Vasuki",
-            "value": 1
+            "source": "Arjuna",
+            "target": "Abhimanyu",
+            "value": 3
         },
         {
-            "source": "Sahadeva",
-            "target": "Ashwini, Pandu",
-            "value": 1
-        },
-        {
-            "source": "Sahadeva",
-            "target": "Madri",
-            "value": 2
-        },
-        {
-            "source": "Samashrava",
-            "target": "Shrutashrava",
-            "value": 1
-        },
-        {
-            "source": "Samhatangada",
-            "target": "Airavat",
-            "value": 1
-        },
-        {
-            "source": "Sanjaya",
-            "target": "Gavalgana",
-            "value": 2
-        },
-        {
-            "source": "Satyaki",
-            "target": "Satyaka",
-            "value": 1
-        },
-        {
-            "source": "Satyaki",
-            "target": "Hridika",
-            "value": 2
-        },
-        {
-            "source": "Saunak",
-            "target": "Sunak",
-            "value": 1
-        },
-        {
-            "source": "Shakuni",
-            "target": "Subala",
-            "value": 1
-        },
-        {
-            "source": "Shalakara",
-            "target": "Takshak",
-            "value": 1
-        },
-        {
-            "source": "Sharabha",
-            "target": "Airavat",
-            "value": 1
-        },
-        {
-            "source": "Sharana",
-            "target": "Vasuki",
-            "value": 1
-        },
-        {
-            "source": "Shashaharoma",
-            "target": "Takshak",
-            "value": 1
-        },
-        {
-            "source": "Sheshnaag",
-            "target": "Kashyap",
-            "value": 1
-        },
-        {
-            "source": "Sheshnaag",
-            "target": "Kadru",
-            "value": 2
-        },
-        {
-            "source": "Shili",
-            "target": "Takshak",
-            "value": 1
-        },
-        {
-            "source": "Shringavega",
-            "target": "Kouravya",
-            "value": 1
-        },
-        {
-            "source": "Shringi",
-            "target": "Shamik",
-            "value": 1
-        },
-        {
-            "source": "Shringi",
-            "target": "Cow",
-            "value": 2
-        },
-        {
-            "source": "Simhika",
-            "target": "Brahma",
-            "value": 1
-        },
-        {
-            "source": "Skandha",
-            "target": "Kouravya",
-            "value": 1
-        },
-        {
-            "source": "Sukumara",
-            "target": "Takshak",
-            "value": 1
-        },
-        {
-            "source": "Sumana",
-            "target": "Takshak",
-            "value": 1
-        },
-        {
-            "source": "Sunak",
-            "target": "Ruru",
-            "value": 1
-        },
-        {
-            "source": "Sunak",
-            "target": "Pramadvara",
-            "value": 2
-        },
-        {
-            "source": "Surasa",
-            "target": "Takshak",
-            "value": 1
-        },
-        {
-            "source": "Takshak",
-            "target": "Kashyap",
-            "value": 1
-        },
-        {
-            "source": "Takshak",
-            "target": "Kadru",
-            "value": 2
-        },
-        {
-            "source": "Ucchikha",
-            "target": "Takshak",
-            "value": 1
-        },
-        {
-            "source": "Ugrashrava",
-            "target": "Lomaharshan",
-            "value": 1
-        },
-        {
-            "source": "Uparichara",
-            "target": "Puru",
-            "value": 1
-        },
-        {
-            "source": "Vapushtama",
-            "target": "Suvarnavarman",
-            "value": 1
-        },
-        {
-            "source": "Vasuki",
-            "target": "Kashyap",
-            "value": 1
-        },
-        {
-            "source": "Vasuki",
-            "target": "Kadru",
-            "value": 2
-        },
-        {
-            "source": "Vegavahana",
-            "target": "Takshak",
-            "value": 1
-        },
-        {
-            "source": "Veni",
-            "target": "Kouravya",
-            "value": 1
-        },
-        {
-            "source": "Vidura",
-            "target": "Vyasa, Shantanu",
-            "value": 1
-        },
-        {
-            "source": "Vihanga",
-            "target": "Airavat",
+            "source": "Kashyapa",
+            "target": "Aruna",
             "value": 1
         },
         {
             "source": "Vinata",
-            "target": "Brahma",
+            "target": "Aruna",
+            "value": 2
+        },
+        {
+            "source": "JaratkaruM",
+            "target": "Astika",
+            "value": 1
+        },
+        {
+            "source": "JaratkaruF",
+            "target": "Astika",
+            "value": 2
+        },
+        {
+            "source": "Kouravya",
+            "target": "Bahuka",
+            "value": 1
+        },
+        {
+            "source": "Takshaka",
+            "target": "Balaheda",
             "value": 1
         },
         {
             "source": "Virochana",
+            "target": "Bali",
+            "value": 1
+        },
+        {
+            "source": "Bali",
+            "target": "Bana",
+            "value": 3
+        },
+        {
+            "source": "Pandu",
+            "target": "Bhima",
+            "value": 1
+        },
+        {
+            "source": "Varuna",
+            "target": "Bhima",
+            "value": 1
+        },
+        {
+            "source": "Kunti",
+            "target": "Bhima",
+            "value": 2
+        },
+        {
+            "source": "Bhima",
+            "target": "Ghatotkacha",
+            "value": 3
+        },
+        {
+            "source": "Shantanu",
+            "target": "Bhishma",
+            "value": 1
+        },
+        {
+            "source": "Ganga",
+            "target": "Bhishma",
+            "value": 2
+        },
+        {
+            "source": "Brahma",
+            "target": "Bhrigu",
+            "value": 1
+        },
+        {
+            "source": "Bhrigu",
+            "target": "Chyavana",
+            "value": 3
+        },
+        {
+            "source": "Brahma",
+            "target": "Marichi",
+            "value": 3
+        },
+        {
+            "source": "Brahma",
+            "target": "Atri",
+            "value": 3
+        },
+        {
+            "source": "Brahma",
+            "target": "Angirasa",
+            "value": 3
+        },
+        {
+            "source": "Brahma",
+            "target": "Pulastya",
+            "value": 3
+        },
+        {
+            "source": "Brahma",
+            "target": "Pulaha",
+            "value": 3
+        },
+        {
+            "source": "Brahma",
+            "target": "Kratu",
+            "value": 3
+        },
+        {
+            "source": "Brahma",
+            "target": "Aditi",
+            "value": 3
+        },
+        {
+            "source": "Brahma",
+            "target": "Diti",
+            "value": 3
+        },
+        {
+            "source": "Brahma",
+            "target": "Danu",
+            "value": 3
+        },
+        {
+            "source": "Brahma",
+            "target": "Kala",
+            "value": 3
+        },
+        {
+            "source": "Brahma",
+            "target": "Anayu",
+            "value": 3
+        },
+        {
+            "source": "Brahma",
+            "target": "Simhika",
+            "value": 3
+        },
+        {
+            "source": "Brahma",
+            "target": "Muni",
+            "value": 3
+        },
+        {
+            "source": "Brahma",
+            "target": "Krodha",
+            "value": 3
+        },
+        {
+            "source": "Brahma",
+            "target": "Prava",
+            "value": 3
+        },
+        {
+            "source": "Brahma",
+            "target": "Arishta",
+            "value": 3
+        },
+        {
+            "source": "Brahma",
+            "target": "Vinata",
+            "value": 3
+        },
+        {
+            "source": "Brahma",
+            "target": "Kapila",
+            "value": 3
+        },
+        {
+            "source": "Brahma",
+            "target": "Kadru",
+            "value": 3
+        },
+        {
+            "source": "Vasuki",
+            "target": "Chakra",
+            "value": 1
+        },
+        {
+            "source": "Bhrigu",
+            "target": "Chyavana",
+            "value": 1
+        },
+        {
+            "source": "Puloma",
+            "target": "Chyavana",
+            "value": 2
+        },
+        {
+            "source": "Chyavana",
+            "target": "Pramati",
+            "value": 3
+        },
+        {
+            "source": "Brahma",
+            "target": "Danu",
+            "value": 1
+        },
+        {
+            "source": "Danu",
+            "target": "Viprachitti",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Shambara",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Namuchi",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Pulomana",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Asilomana",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Keshi",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Durjaya",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Ayashira",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Ashvashira",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Ashvashanku",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Gaganamurdhana",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Vegavana",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Ketumana",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Svarbhanu",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Ashva",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Ashvapati",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Vrishaparva",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Ajaka",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Ashvagriva",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Sukshma",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Tuhundu",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Isripa",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Ekachakra",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Virupaksha",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Hara",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Ahara",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Nichandra",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Nikumbha",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Kupatha",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Kapatha",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Sharabha",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Shalabha",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Surya",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Chandrama",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Ekaksha",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Mritapa",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Pralamba",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Naraka",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Vatapi",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Shatrutapana",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Shatha",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Gavishtha",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Danayu",
+            "value": 3
+        },
+        {
+            "source": "Danu",
+            "target": "Dirghajihva",
+            "value": 3
+        },
+        {
+            "source": "Dashratha",
+            "target": "Rama",
+            "value": 3
+        },
+        {
+            "source": "Shantanu",
+            "target": "Dhritarashtra",
+            "value": 1
+        },
+        {
+            "source": "Vyasa",
+            "target": "Dhritarashtra",
+            "value": 1
+        },
+        {
+            "source": "Dhritarashtra",
+            "target": "Duryodhana",
+            "value": 3
+        },
+        {
+            "source": "Dhritarashtra",
+            "target": "Yuyutsu",
+            "value": 3
+        },
+        {
+            "source": "Kouravya",
+            "target": "Dhurtaka",
+            "value": 1
+        },
+        {
+            "source": "Brahma",
+            "target": "Diti",
+            "value": 1
+        },
+        {
+            "source": "Diti",
+            "target": "Hiranyakashipu",
+            "value": 3
+        },
+        {
+            "source": "Takshaka",
+            "target": "Dranga",
+            "value": 1
+        },
+        {
+            "source": "Drupada",
+            "target": "Draupadi",
+            "value": 1
+        },
+        {
+            "source": "Draupadi",
+            "target": "Prativindhya",
+            "value": 3
+        },
+        {
+            "source": "Draupadi",
+            "target": "Shrutakirti",
+            "value": 3
+        },
+        {
+            "source": "Draupadi",
+            "target": "Sutasoma",
+            "value": 3
+        },
+        {
+            "source": "Draupadi",
+            "target": "Shatanika",
+            "value": 3
+        },
+        {
+            "source": "Draupadi",
+            "target": "Shrutasena",
+            "value": 3
+        },
+        {
+            "source": "Bhardwaja",
+            "target": "Drona",
+            "value": 1
+        },
+        {
+            "source": "Drona",
+            "target": "Ashvatthama",
+            "value": 3
+        },
+        {
+            "source": "Drupada",
+            "target": "Draupadi",
+            "value": 3
+        },
+        {
+            "source": "Drupada",
+            "target": "Shikhandi",
+            "value": 3
+        },
+        {
+            "source": "Dhritarashtra",
+            "target": "Duryodhana",
+            "value": 1
+        },
+        {
+            "source": "Gandhari",
+            "target": "Duryodhana",
+            "value": 2
+        },
+        {
+            "source": "Subala",
+            "target": "Gandhari",
+            "value": 1
+        },
+        {
+            "source": "Gandhari",
+            "target": "Duryodhana",
+            "value": 3
+        },
+        {
+            "source": "Gandhari",
+            "target": "Yuyutsu",
+            "value": 3
+        },
+        {
+            "source": "Kashyapa",
+            "target": "Garuda",
+            "value": 1
+        },
+        {
+            "source": "Vinata",
+            "target": "Garuda",
+            "value": 2
+        },
+        {
+            "source": "Goutama",
+            "target": "Kripacharya",
+            "value": 3
+        },
+        {
+            "source": "Goutama",
+            "target": "Kripi",
+            "value": 3
+        },
+        {
+            "source": "Vasuki",
+            "target": "Halisaka",
+            "value": 1
+        },
+        {
+            "source": "Airavata",
+            "target": "Harina",
+            "value": 1
+        },
+        {
+            "source": "Diti",
+            "target": "Hiranyakashipu",
+            "value": 2
+        },
+        {
+            "source": "Hiranyakashipu",
+            "target": "Prahlada",
+            "value": 3
+        },
+        {
+            "source": "Hiranyakashipu",
+            "target": "Samhrada",
+            "value": 3
+        },
+        {
+            "source": "Hiranyakashipu",
+            "target": "Anuhrada",
+            "value": 3
+        },
+        {
+            "source": "Hiranyakashipu",
+            "target": "Shibi",
+            "value": 3
+        },
+        {
+            "source": "Hiranyakashipu",
+            "target": "Bashkala",
+            "value": 3
+        },
+        {
+            "source": "Vasuki",
+            "target": "Hiranyavaha",
+            "value": 1
+        },
+        {
+            "source": "Hritachi",
+            "target": "Ruru",
+            "value": 3
+        },
+        {
+            "source": "Parikshita",
+            "target": "Janamejaya",
+            "value": 1
+        },
+        {
+            "source": "JaratkaruM",
+            "target": "Astika",
+            "value": 3
+        },
+        {
+            "source": "Brahma",
+            "target": "Kadru",
+            "value": 1
+        },
+        {
+            "source": "Kadru",
+            "target": "Shesha",
+            "value": 3
+        },
+        {
+            "source": "Kadru",
+            "target": "Ananta",
+            "value": 3
+        },
+        {
+            "source": "Kadru",
+            "target": "Vasuki",
+            "value": 3
+        },
+        {
+            "source": "Kadru",
+            "target": "Takshaka",
+            "value": 3
+        },
+        {
+            "source": "Kadru",
+            "target": "Kurma",
+            "value": 3
+        },
+        {
+            "source": "Kadru",
+            "target": "Kulika",
+            "value": 3
+        },
+        {
+            "source": "Vasuki",
+            "target": "Kakshaka",
+            "value": 1
+        },
+        {
+            "source": "Brahma",
+            "target": "Kala",
+            "value": 1
+        },
+        {
+            "source": "Kala",
+            "target": "Vinashana",
+            "value": 3
+        },
+        {
+            "source": "Kala",
+            "target": "Krodha2",
+            "value": 3
+        },
+        {
+            "source": "Kala",
+            "target": "Krodhahanta",
+            "value": 3
+        },
+        {
+            "source": "Kala",
+            "target": "Krodhashatru",
+            "value": 3
+        },
+        {
+            "source": "Vasuki",
+            "target": "Kaladantaka",
+            "value": 1
+        },
+        {
+            "source": "Surya",
+            "target": "Karna",
+            "value": 1
+        },
+        {
+            "source": "Kunti",
+            "target": "Karna",
+            "value": 2
+        },
+        {
+            "source": "Vasuki",
+            "target": "Konapa",
+            "value": 1
+        },
+        {
+            "source": "Vasuki",
+            "target": "Konavega",
+            "value": 1
+        },
+        {
+            "source": "Vasuki",
+            "target": "Kotika",
+            "value": 1
+        },
+        {
+            "source": "Airavata",
+            "target": "Krisha",
+            "value": 1
+        },
+        {
+            "source": "Vasudeva",
+            "target": "Krishna",
+            "value": 1
+        },
+        {
+            "source": "Devaki",
+            "target": "Krishna",
+            "value": 2
+        },
+        {
+            "source": "Satyaka",
+            "target": "Kritavarma",
+            "value": 1
+        },
+        {
+            "source": "Hridika",
+            "target": "Kritavarma",
+            "value": 2
+        },
+        {
+            "source": "Kouravya",
+            "target": "Kumaraka",
+            "value": 1
+        },
+        {
+            "source": "Kouravya",
+            "target": "Kundala",
+            "value": 1
+        },
+        {
+            "source": "Kunti",
+            "target": "Yudhishthira",
+            "value": 3
+        },
+        {
+            "source": "Kunti",
+            "target": "Bhima",
+            "value": 3
+        },
+        {
+            "source": "Kunti",
+            "target": "Arjuna",
+            "value": 3
+        },
+        {
+            "source": "Kunti",
+            "target": "Karna",
+            "value": 3
+        },
+        {
+            "source": "Vasuki",
+            "target": "Manasa",
+            "value": 1
+        },
+        {
+            "source": "Takshaka",
+            "target": "Mandalaka",
+            "value": 1
+        },
+        {
+            "source": "Airavata",
+            "target": "Moda",
+            "value": 1
+        },
+        {
+            "source": "Takshaka",
+            "target": "Mudgara",
+            "value": 1
+        },
+        {
+            "source": "Takshaka",
+            "target": "Muka",
+            "value": 1
+        },
+        {
+            "source": "Kouravya",
+            "target": "Mundo",
+            "value": 1
+        },
+        {
+            "source": "Brahma",
+            "target": "Muni",
+            "value": 1
+        },
+        {
+            "source": "Muni",
+            "target": "Bhimasena",
+            "value": 3
+        },
+        {
+            "source": "Muni",
+            "target": "Ugrasena",
+            "value": 3
+        },
+        {
+            "source": "Muni",
+            "target": "Suparna",
+            "value": 3
+        },
+        {
+            "source": "Muni",
+            "target": "Varuna2",
+            "value": 3
+        },
+        {
+            "source": "Muni",
+            "target": "Gopati",
+            "value": 3
+        },
+        {
+            "source": "Muni",
+            "target": "Dhritarashtra2",
+            "value": 3
+        },
+        {
+            "source": "Muni",
+            "target": "Suryavarcha",
+            "value": 3
+        },
+        {
+            "source": "Muni",
+            "target": "Pattravana",
+            "value": 3
+        },
+        {
+            "source": "Muni",
+            "target": "Arkapana",
+            "value": 3
+        },
+        {
+            "source": "Muni",
+            "target": "Prayuta",
+            "value": 3
+        },
+        {
+            "source": "Muni",
+            "target": "Bhima2",
+            "value": 3
+        },
+        {
+            "source": "Muni",
+            "target": "Chitraratha",
+            "value": 3
+        },
+        {
+            "source": "Muni",
+            "target": "Shalishira",
+            "value": 3
+        },
+        {
+            "source": "Muni",
+            "target": "Pradyumna",
+            "value": 3
+        },
+        {
+            "source": "Muni",
+            "target": "Kali",
+            "value": 3
+        },
+        {
+            "source": "Muni",
+            "target": "Narada",
+            "value": 3
+        },
+        {
+            "source": "Ashwini",
+            "target": "Nakula",
+            "value": 1
+        },
+        {
+            "source": "Pandu",
+            "target": "Nakula",
+            "value": 1
+        },
+        {
+            "source": "Madri",
+            "target": "Nakula",
+            "value": 2
+        },
+        {
+            "source": "Vasuki",
+            "target": "Paila",
+            "value": 1
+        },
+        {
+            "source": "Airavata",
+            "target": "Pandara",
+            "value": 1
+        },
+        {
+            "source": "Vyasa",
+            "target": "Pandu",
+            "value": 1
+        },
+        {
+            "source": "Shantanu",
+            "target": "Pandu",
+            "value": 1
+        },
+        {
+            "source": "Pandu",
+            "target": "Yudhishthira",
+            "value": 3
+        },
+        {
+            "source": "Pandu",
+            "target": "Bhima",
+            "value": 3
+        },
+        {
+            "source": "Pandu",
+            "target": "Arjuna",
+            "value": 3
+        },
+        {
+            "source": "Pandu",
+            "target": "Nakula",
+            "value": 3
+        },
+        {
+            "source": "Pandu",
+            "target": "Sahadeva",
+            "value": 3
+        },
+        {
+            "source": "Jamadagni",
+            "target": "Parashurama",
+            "value": 1
+        },
+        {
+            "source": "Airavata",
+            "target": "Paravata",
+            "value": 1
+        },
+        {
+            "source": "Abhimanyu",
+            "target": "Parikshita",
+            "value": 1
+        },
+        {
+            "source": "Parikshita",
+            "target": "Janamejaya",
+            "value": 3
+        },
+        {
+            "source": "Parikshita",
+            "target": "Upgradena",
+            "value": 3
+        },
+        {
+            "source": "Parikshita",
+            "target": "Shrutsena",
+            "value": 3
+        },
+        {
+            "source": "Parikshita",
+            "target": "Bhimsena",
+            "value": 3
+        },
+        {
+            "source": "Airavata",
+            "target": "Pariyatra",
+            "value": 1
+        },
+        {
+            "source": "Kouravya",
+            "target": "Pata",
+            "value": 1
+        },
+        {
+            "source": "Kouravya",
+            "target": "Patara",
+            "value": 1
+        },
+        {
+            "source": "Vasuki",
+            "target": "Picchila",
+            "value": 1
+        },
+        {
+            "source": "Takshaka",
+            "target": "Pindabhetta",
+            "value": 1
+        },
+        {
+            "source": "Hiranyakashipu",
             "target": "Prahlada",
             "value": 1
         },
         {
-            "source": "Virohana",
-            "target": "Takshak",
+            "source": "Prahlada",
+            "target": "Virochana",
+            "value": 3
+        },
+        {
+            "source": "Prahlada",
+            "target": "Kumbha",
+            "value": 3
+        },
+        {
+            "source": "Prahlada",
+            "target": "Nikumbha",
+            "value": 3
+        },
+        {
+            "source": "Vasuki",
+            "target": "Prakalana",
             "value": 1
         },
         {
-            "source": "Vyasa",
-            "target": "Parashara",
+            "source": "Vishvavasu",
+            "target": "Pramadvara",
             "value": 1
         },
         {
-            "source": "Vyasa",
-            "target": "Satyavati",
+            "source": "Sthoolkesha",
+            "target": "Pramadvara",
+            "value": 1
+        },
+        {
+            "source": "Menaka",
+            "target": "Pramadvara",
             "value": 2
         },
         {
-            "source": "Yudhishthira",
-            "target": "Pandu, Dharma",
+            "source": "Pramadvara",
+            "target": "Sunaka",
+            "value": 3
+        },
+        {
+            "source": "Chyavana",
+            "target": "Pramati",
             "value": 1
         },
         {
-            "source": "Yudhishthira",
-            "target": "Kunti",
+            "source": "Sukanta",
+            "target": "Pramati",
+            "value": 2
+        },
+        {
+            "source": "Pramati",
+            "target": "Ruru",
+            "value": 3
+        },
+        {
+            "source": "Airavata",
+            "target": "Pramoda",
+            "value": 1
+        },
+        {
+            "source": "Takshaka",
+            "target": "Pravepana",
+            "value": 1
+        },
+        {
+            "source": "Takshaka",
+            "target": "Pucchandaka",
+            "value": 1
+        },
+        {
+            "source": "Vasuki",
+            "target": "Purna",
+            "value": 1
+        },
+        {
+            "source": "Takshaka",
+            "target": "Rabhenaka",
+            "value": 1
+        },
+        {
+            "source": "Dashratha",
+            "target": "Rama",
+            "value": 1
+        },
+        {
+            "source": "Pramati",
+            "target": "Ruru",
+            "value": 1
+        },
+        {
+            "source": "Hritachi",
+            "target": "Ruru",
+            "value": 2
+        },
+        {
+            "source": "Ruru",
+            "target": "Sunaka",
+            "value": 3
+        },
+        {
+            "source": "Vasuki",
+            "target": "Saha",
+            "value": 1
+        },
+        {
+            "source": "Ashwini",
+            "target": "Sahadeva",
+            "value": 1
+        },
+        {
+            "source": "Pandu",
+            "target": "Sahadeva",
+            "value": 1
+        },
+        {
+            "source": "Madri",
+            "target": "Sahadeva",
+            "value": 2
+        },
+        {
+            "source": "Shrutashrava",
+            "target": "Samashrava",
+            "value": 1
+        },
+        {
+            "source": "Airavata",
+            "target": "Samhatangada",
+            "value": 1
+        },
+        {
+            "source": "Gavalgana",
+            "target": "Sanjaya",
+            "value": 2
+        },
+        {
+            "source": "Satyaka",
+            "target": "Satyaki",
+            "value": 1
+        },
+        {
+            "source": "Hridika",
+            "target": "Satyaki",
+            "value": 2
+        },
+        {
+            "source": "Satyavati",
+            "target": "Vyasa",
+            "value": 3
+        },
+        {
+            "source": "Sunaka",
+            "target": "Saunaka",
+            "value": 1
+        },
+        {
+            "source": "Subala",
+            "target": "Shakuni",
+            "value": 1
+        },
+        {
+            "source": "Takshaka",
+            "target": "Shalakara",
+            "value": 1
+        },
+        {
+            "source": "Shamika",
+            "target": "Shringi",
+            "value": 3
+        },
+        {
+            "source": "Shantanu",
+            "target": "Pandu",
+            "value": 3
+        },
+        {
+            "source": "Shantanu",
+            "target": "Dhritarashtra",
+            "value": 3
+        },
+        {
+            "source": "Shantanu",
+            "target": "Vidura",
+            "value": 3
+        },
+        {
+            "source": "Shantanu",
+            "target": "Bhishma",
+            "value": 3
+        },
+        {
+            "source": "Airavata",
+            "target": "Sharabha",
+            "value": 1
+        },
+        {
+            "source": "Vasuki",
+            "target": "Sharana",
+            "value": 1
+        },
+        {
+            "source": "Takshaka",
+            "target": "Shashaharoma",
+            "value": 1
+        },
+        {
+            "source": "Kashyapa",
+            "target": "Sheshnaaga",
+            "value": 1
+        },
+        {
+            "source": "Kadru",
+            "target": "Sheshnaaga",
+            "value": 2
+        },
+        {
+            "source": "Takshaka",
+            "target": "Shili",
+            "value": 1
+        },
+        {
+            "source": "Kouravya",
+            "target": "Shringavega",
+            "value": 1
+        },
+        {
+            "source": "Shamika",
+            "target": "Shringi",
+            "value": 1
+        },
+        {
+            "source": "Cowa",
+            "target": "Shringi",
+            "value": 2
+        },
+        {
+            "source": "Shukra",
+            "target": "Tvashtavara",
+            "value": 3
+        },
+        {
+            "source": "Shukra",
+            "target": "Atri2",
+            "value": 3
+        },
+        {
+            "source": "Brahma",
+            "target": "Simhika",
+            "value": 1
+        },
+        {
+            "source": "Simhika",
+            "target": "Rahu",
+            "value": 3
+        },
+        {
+            "source": "Simhika",
+            "target": "Suchandra",
+            "value": 3
+        },
+        {
+            "source": "Simhika",
+            "target": "Chandraharta",
+            "value": 3
+        },
+        {
+            "source": "Simhika",
+            "target": "Chandraravimardana",
+            "value": 3
+        },
+        {
+            "source": "Kouravya",
+            "target": "Skandha",
+            "value": 1
+        },
+        {
+            "source": "Subala",
+            "target": "Shakuni",
+            "value": 3
+        },
+        {
+            "source": "Subala",
+            "target": "Gandhari",
+            "value": 3
+        },
+        {
+            "source": "Subhadra",
+            "target": "Abhimanyu",
+            "value": 3
+        },
+        {
+            "source": "Takshaka",
+            "target": "Sukumara",
+            "value": 1
+        },
+        {
+            "source": "Takshaka",
+            "target": "Sumana",
+            "value": 1
+        },
+        {
+            "source": "Ruru",
+            "target": "Sunaka",
+            "value": 1
+        },
+        {
+            "source": "Pramadvara",
+            "target": "Sunaka",
+            "value": 2
+        },
+        {
+            "source": "Sunaka",
+            "target": "Saunaka",
+            "value": 3
+        },
+        {
+            "source": "Takshaka",
+            "target": "Surasa",
+            "value": 1
+        },
+        {
+            "source": "Kashyapa",
+            "target": "Takshaka",
+            "value": 1
+        },
+        {
+            "source": "Kadru",
+            "target": "Takshaka",
+            "value": 2
+        },
+        {
+            "source": "Takshaka",
+            "target": "Ucchikha",
+            "value": 1
+        },
+        {
+            "source": "Lomaharshana",
+            "target": "Ugrashrava",
+            "value": 1
+        },
+        {
+            "source": "Puru",
+            "target": "Uparichara",
+            "value": 1
+        },
+        {
+            "source": "Uparichara",
+            "target": "Brihadaratha",
+            "value": 3
+        },
+        {
+            "source": "Uparichara",
+            "target": "Kushamba",
+            "value": 3
+        },
+        {
+            "source": "Uparichara",
+            "target": "Pratyagraha",
+            "value": 3
+        },
+        {
+            "source": "Uparichara",
+            "target": "Macchila",
+            "value": 3
+        },
+        {
+            "source": "Uparichara",
+            "target": "Yadu",
+            "value": 3
+        },
+        {
+            "source": "Uttara",
+            "target": "Parikshita",
+            "value": 3
+        },
+        {
+            "source": "Suvarnavarmana",
+            "target": "Vapushtama",
+            "value": 1
+        },
+        {
+            "source": "Kashyapa",
+            "target": "Vasuki",
+            "value": 1
+        },
+        {
+            "source": "Kadru",
+            "target": "Vasuki",
+            "value": 2
+        },
+        {
+            "source": "Vasuki",
+            "target": "JaratkaruF",
+            "value": 3
+        },
+        {
+            "source": "Takshaka",
+            "target": "Vegavahana",
+            "value": 1
+        },
+        {
+            "source": "Kouravya",
+            "target": "Veni",
+            "value": 1
+        },
+        {
+            "source": "Vyasa",
+            "target": "Vidura",
+            "value": 1
+        },
+        {
+            "source": "Shantanu",
+            "target": "Vidura",
+            "value": 1
+        },
+        {
+            "source": "Airavata",
+            "target": "Vihanga",
+            "value": 1
+        },
+        {
+            "source": "Brahma",
+            "target": "Vinata",
+            "value": 1
+        },
+        {
+            "source": "Vinata",
+            "target": "tarkshya",
+            "value": 3
+        },
+        {
+            "source": "Vinata",
+            "target": "Arishtanemi",
+            "value": 3
+        },
+        {
+            "source": "Vinata",
+            "target": "Garuda",
+            "value": 3
+        },
+        {
+            "source": "Vinata",
+            "target": "Aruna",
+            "value": 3
+        },
+        {
+            "source": "Vinata",
+            "target": "Aruni",
+            "value": 3
+        },
+        {
+            "source": "Vinata",
+            "target": "Varuni",
+            "value": 3
+        },
+        {
+            "source": "Prahlada",
+            "target": "Virochana",
+            "value": 1
+        },
+        {
+            "source": "Virochana",
+            "target": "Bali",
+            "value": 3
+        },
+        {
+            "source": "Takshaka",
+            "target": "Virohana",
+            "value": 1
+        },
+        {
+            "source": "Vishvavasu",
+            "target": "Pramadvara",
+            "value": 3
+        },
+        {
+            "source": "Parashara",
+            "target": "Vyasa",
+            "value": 1
+        },
+        {
+            "source": "Satyavati",
+            "target": "Vyasa",
+            "value": 2
+        },
+        {
+            "source": "Vyasa",
+            "target": "Pandu",
+            "value": 3
+        },
+        {
+            "source": "Vyasa",
+            "target": "Dhritarashtra",
+            "value": 3
+        },
+        {
+            "source": "Vyasa",
+            "target": "Vidura",
+            "value": 3
+        },
+        {
+            "source": "Vyasa",
+            "target": "Shuka",
+            "value": 3
+        },
+        {
+            "source": "Yayavara",
+            "target": "Jaratkaru",
+            "value": 3
+        },
+        {
+            "source": "Pandu",
+            "target": "Yudhishthira",
+            "value": 1
+        },
+        {
+            "source": "Dharma",
+            "target": "Yudhishthira",
+            "value": 1
+        },
+        {
+            "source": "Kunti",
+            "target": "Yudhishthira",
             "value": 2
         }
     ]
