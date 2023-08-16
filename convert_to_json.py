@@ -57,6 +57,7 @@ def process_data_field(
     character_name: str,
     field_names: str,
     group_value: int,
+    known_gender: str,
     relation_dict_gender_check: dict,
 ):
     """Processes a data field and adds it to the node list, link list, and character list.
@@ -75,15 +76,16 @@ def process_data_field(
 
     for field_name in field_names.split(","):
         field_name = standard_name(field_name)
-        try:
-            ## find field gender
-            gender_value = gender_color_map[
-                relation_dict_gender_check[field_name]["Gender"]
-            ]
-        except Exception as e:
-            gender_value = gender_color_map["X"]
-            if field_name.startswith("Arjun"):
-                print(field_name, gender_value, e, relation_dict_gender_check)
+        if known_gender in ["M", "F"]:
+            gender_value = gender_color_map[known_gender]
+        else:
+            try:
+                ## find field gender
+                gender_value = gender_color_map[
+                    relation_dict_gender_check[field_name]["Gender"]
+                ]
+            except Exception as e:
+                gender_value = gender_color_map["X"]
 
         # Check if the field name is already in the character list.
         if field_name not in character_list and field_name != "nana":
@@ -148,6 +150,7 @@ if __name__ == "__main__":
             character_name,
             str(relation_dict["Father"]),
             1,
+            "M",
             character_dict,
         )
 
@@ -158,6 +161,7 @@ if __name__ == "__main__":
             character_name,
             str(relation_dict["Mother"]),
             2,
+            "F",
             character_dict,
         )
 
@@ -166,8 +170,20 @@ if __name__ == "__main__":
             link_list,
             character_list,
             character_name,
-            str(relation_dict["Kids"]),
+            str(relation_dict["Sons"]),
             3,
+            "M",
+            character_dict,
+        )
+
+        node_list, link_list, character_list = process_data_field(
+            node_list,
+            link_list,
+            character_list,
+            character_name,
+            str(relation_dict["Daughters"]),
+            3,
+            "F",
             character_dict,
         )
 
