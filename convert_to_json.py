@@ -2,6 +2,8 @@ import json
 import string
 import pandas as pd
 
+gender_color_map = {"M": 1, "F": 5, "X": 3}
+
 
 def add_a_to_consonant_ending(name_string):
     """Adds "a" to the end of a string if the last letter is a consonant.
@@ -55,6 +57,7 @@ def process_data_field(
     character_name: str,
     field_names: str,
     group_value: int,
+    relation_dict_gender_check: dict,
 ):
     """Processes a data field and adds it to the node list, link list, and character list.
 
@@ -71,10 +74,16 @@ def process_data_field(
     """
 
     for field_name in field_names.split(","):
-        # Remove white spaces and special characters from the field name.
-        field_name = add_a_to_consonant_ending(
-            remove_whitespace_and_special_characters(field_name)
-        )
+        field_name = standard_name(field_name)
+        try:
+            ## find field gender
+            gender_value = gender_color_map[
+                relation_dict_gender_check[field_name]["Gender"]
+            ]
+        except Exception as e:
+            gender_value = gender_color_map["X"]
+            if field_name.startswith("Arjun"):
+                print(field_name, gender_value, e, relation_dict_gender_check)
 
         # Check if the field name is already in the character list.
         if field_name not in character_list and field_name != "nana":
@@ -82,7 +91,7 @@ def process_data_field(
             character_list.append(field_name)
 
             # Create a node for the field name.
-            temp_node = {"id": field_name, "group": group_value}
+            temp_node = {"id": field_name, "group": gender_value}
             node_list.append(temp_node)
 
         # Check if the field name is not equal to nan.
@@ -92,23 +101,31 @@ def process_data_field(
                 temp_link = {
                     "source": character_name,
                     "target": field_name,
-                    "value": group_value,
+                    "value": gender_value,
                 }
             else:
                 temp_link = {
                     "source": field_name,
                     "target": character_name,
-                    "value": group_value,
+                    "value": gender_value,
                 }
             link_list.append(temp_link)
 
     return node_list, link_list, character_list
 
 
+def standard_name(name_str):
+    return add_a_to_consonant_ending(remove_whitespace_and_special_characters(name_str))
+
+
 if __name__ == "__main__":
     character_df = pd.read_excel("Character Map.xlsx", index_col=0)
+    character_df.index = character_df.index.map(standard_name)
 
     character_dict = character_df.T.to_dict()
+
+    with open("Character Dict.json", "w") as file:
+        json.dump(character_dict, file, indent=4)
 
     node_list = []
     link_list = []
@@ -116,12 +133,12 @@ if __name__ == "__main__":
     character_map = {}
 
     for character_name, relation_dict in character_dict.items():
-        character_name = add_a_to_consonant_ending(
-            remove_whitespace_and_special_characters(character_name)
-        )
         if character_name not in character_list:
             character_list.append(character_name)
-            temp_node = {"id": character_name, "group": 1}
+            temp_node = {
+                "id": character_name,
+                "group": gender_color_map[str(relation_dict["Gender"])],
+            }
             node_list.append(temp_node)
 
         node_list, link_list, character_list = process_data_field(
@@ -131,6 +148,7 @@ if __name__ == "__main__":
             character_name,
             str(relation_dict["Father"]),
             1,
+            character_dict,
         )
 
         node_list, link_list, character_list = process_data_field(
@@ -140,6 +158,7 @@ if __name__ == "__main__":
             character_name,
             str(relation_dict["Mother"]),
             2,
+            character_dict,
         )
 
         node_list, link_list, character_list = process_data_field(
@@ -149,6 +168,7 @@ if __name__ == "__main__":
             character_name,
             str(relation_dict["Kids"]),
             3,
+            character_dict,
         )
 
     character_map["nodes"] = node_list

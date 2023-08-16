@@ -8,7 +8,7 @@ let link, node;
 // the data - an object with nodes and links
 let graph;
 
-let color = d3.scaleOrdinal(d3.schemeCategory20);
+let color = d3.scaleOrdinal(d3.schemeCategory10);
 
 // load the data
 d3.json("Character Map.json", function (error, _graph) {
