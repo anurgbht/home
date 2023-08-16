@@ -727,7 +727,7 @@ a.back-to-top:focus {
 ========================================================================== */
 
 .hero-area-bg {
-  background: url(../img/anurag-5.jpg) no-repeat;
+  background: url(../img/anurag-7.jpg) no-repeat;
   background-size: cover;
 }
 
@@ -744,7 +744,7 @@ a.back-to-top:focus {
   top: 0px;
   left: 0px;
   background: #0c0808;
-  opacity: 0.6;
+  opacity: 0.2;
 }
 
 #hero-area .contents {
