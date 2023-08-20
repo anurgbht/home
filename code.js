@@ -7,6 +7,8 @@ let svg = d3.select("svg"),
 let link, node;
 // the data - an object with nodes and links
 let graph;
+let filteredGraph;
+let keyword;
 
 let color = d3.scaleOrdinal(d3.schemeCategory10);
 
@@ -14,11 +16,26 @@ let color = d3.scaleOrdinal(d3.schemeCategory10);
 d3.json("Character Map.json", function (error, _graph) {
     if (error) throw error;
     graph = _graph;
+    filteredGraph = _graph;
     initializeDisplay();
     initializeSimulation();
 });
 
+d3.select("#filter-button").on("click", function () {
+    keyword = document.getElementById("filter-input").value;
+    const maxLevels = +document.getElementById("maxLevels").value;
+    filteredGraph = subsetGraphByKeyword(keyword, maxLevels);
+    console.log("Filtered Nodes:", filteredGraph.nodes);
+    console.log("Filtered Links:", filteredGraph.links);
 
+
+    clearGraph(); // Clear existing nodes and links
+    simulation.nodes(filteredGraph.nodes);
+    simulation.force("link").links(filteredGraph.links);
+    // updateAll(); // Update both forces and display
+    initializeDisplay(); // Reinitialize the visualization with the filtered data
+    initializeSimulation(); // Reinitialize the simulation with the filtered data
+});
 
 //////////// FORCE SIMULATION //////////// 
 
@@ -27,7 +44,7 @@ let simulation = d3.forceSimulation();
 
 // set up the simulation and event to update locations after each tick
 function initializeSimulation() {
-    simulation.nodes(graph.nodes);
+    simulation.nodes(filteredGraph.nodes);
     initializeForces();
     simulation.on("tick", ticked);
 }
@@ -122,17 +139,29 @@ function initializeDisplay() {
     link = svg.append("g")
         .attr("class", "links")
         .selectAll("line")
-        .data(graph.links)
+        .data(filteredGraph.links)
         .enter().append("line");
 
     // set the data and properties of node circles
     node = svg.append("g")
         .attr("class", "nodes")
         .selectAll("circle")
-        .data(graph.nodes)
+        .data(filteredGraph.nodes)
         .enter().append("circle")
-        .attr("r", 5)
-        .attr("fill", function (d) { return color(d.group); })
+        .attr("r", function (d) {
+            if (d.id.includes(keyword)) {
+                return 20; // Adjust the size as needed
+            } else {
+                return 5;
+            }
+        })
+        .attr("fill", function (d) {
+            if (d.id.includes(keyword)) {
+                return "purple"; // Set the color for keyword nodes
+            } else {
+                return color(d.group);
+            }
+        })
         .call(d3.drag()
             .on("start", dragstarted)
             .on("drag", dragged)
@@ -175,8 +204,47 @@ function ticked() {
     d3.select('#alpha_value').style('flex-basis', (simulation.alpha() * 100) + '%');
 }
 
+// Function to subset graph based on a keyword
+function subsetGraphByKeyword(keyword, maxLevels) {
+    const keywordNodes = graph.nodes.filter(node => node.id.includes(keyword));
+    const keywordNodeIds = new Set(keywordNodes.map(node => node.id));
+
+    const connectedNodeIds = new Set(keywordNodeIds);
+    const newLinks = [];
+
+    function findConnectedNodes(nodeId, currentLevel) {
+        if (currentLevel > maxLevels) {
+            return;
+        }
+
+        const linksConnectedToNode = graph.links.filter(link => link.source.id === nodeId || link.target.id === nodeId);
+        linksConnectedToNode.forEach(link => {
+            const otherNodeId = link.source.id === nodeId ? link.target.id : link.source.id;
+            if (!connectedNodeIds.has(otherNodeId)) {
+                connectedNodeIds.add(otherNodeId);
+                newLinks.push({ source: nodeId, target: otherNodeId }); // Create new link
+                findConnectedNodes(otherNodeId, currentLevel + 1);
+            }
+        });
+    }
+
+    keywordNodeIds.forEach(nodeId => findConnectedNodes(nodeId, 1));
+
+    const filteredNodes = graph.nodes.filter(node => connectedNodeIds.has(node.id));
+    const filteredLinks = newLinks; // Use only the new links created during expansion
+
+    return {
+        nodes: filteredNodes,
+        links: filteredLinks
+    };
+}
 
 
+function clearGraph() {
+    // Remove existing nodes and links from the SVG
+    svg.selectAll(".nodes").selectAll("*").remove();
+    svg.selectAll(".links").selectAll("*").remove();
+}
 //////////// UI EVENTS ////////////
 
 function dragstarted(d) {
