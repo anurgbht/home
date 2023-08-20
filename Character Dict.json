@@ -1,5 +1,6 @@
 {
     "Aayodadhaumya": {
+        "Name check": 1,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -20,7 +21,30 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Abhaya": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Abhimanyu": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Arjun",
@@ -42,6 +66,7 @@
         "Description": NaN
     },
     "Abhishyanta": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Kuru",
@@ -63,6 +88,7 @@
         "Description": NaN
     },
     "Adharma": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -84,6 +110,7 @@
         "Description": NaN
     },
     "Aditi": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Brahma",
@@ -104,7 +131,30 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Adityaketu": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Adrika": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": NaN,
@@ -126,6 +176,7 @@
         "Description": NaN
     },
     "Aha": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Manu",
@@ -147,6 +198,7 @@
         "Description": NaN
     },
     "Ahampati": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Samyati",
@@ -168,6 +220,7 @@
         "Description": NaN
     },
     "Aindila": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Kouravya",
@@ -189,6 +242,7 @@
         "Description": NaN
     },
     "Airavata": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Kashyap",
@@ -210,6 +264,7 @@
         "Description": NaN
     },
     "Ajamidha": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Vikunthana",
@@ -231,6 +286,7 @@
         "Description": NaN
     },
     "Akrodhana": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Ayutanayi",
@@ -251,7 +307,30 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Alolupa": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Amitouja": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -272,7 +351,30 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Anadhrishya": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Anala": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": "Hutashana",
         "Father": "Manu",
@@ -294,6 +396,7 @@
         "Description": NaN
     },
     "Anayu": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Brahma",
@@ -315,6 +418,7 @@
         "Description": NaN
     },
     "Angirasa": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Brahma",
@@ -336,6 +440,7 @@
         "Description": NaN
     },
     "Anila": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": "Shvasana",
         "Father": "Manu",
@@ -356,7 +461,74 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Anudara": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Anuvinda": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Aparajita": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Arachina": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Jayatsena",
@@ -378,6 +550,7 @@
         "Description": NaN
     },
     "Arjuna": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": "Dhananjaya, Partha",
         "Father": "Pandu, Indra",
@@ -398,28 +571,8 @@
         "Priest of": NaN,
         "Description": NaN
     },
-    "Shrutakirti": {
-        "Gender": "M",
-        "Aliases": NaN,
-        "Father": "Arjun",
-        "Mother": "Draupadi",
-        "Spouse": NaN,
-        "Sons": NaN,
-        "Daughters": NaN,
-        "Reincarnation of": NaN,
-        "Disciple of": NaN,
-        "Disciples": NaN,
-        "Cursed": NaN,
-        "Cursed by": NaN,
-        "Killed": NaN,
-        "Killed by": NaN,
-        "Enemy of ": NaN,
-        "Friends with": NaN,
-        "Priest": NaN,
-        "Priest of": NaN,
-        "Description": NaN
-    },
     "Arugvata": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Viduratha",
@@ -441,6 +594,7 @@
         "Description": NaN
     },
     "Aruna": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Kashyap",
@@ -462,6 +616,7 @@
         "Description": "Died prematurely due to mother's impatience"
     },
     "Aruni": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": "Uddalak",
         "Father": NaN,
@@ -483,6 +638,7 @@
         "Description": NaN
     },
     "Arushi": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Manu",
@@ -504,6 +660,7 @@
         "Description": NaN
     },
     "Ashoka": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -525,6 +682,7 @@
         "Description": NaN
     },
     "Ashtaka": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -545,7 +703,30 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Ashvasena": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Asita": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -567,6 +748,7 @@
         "Description": "Were present at Janamejaya's Snake sacrifice"
     },
     "Astika": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Jaratkaru(M)",
@@ -588,6 +770,7 @@
         "Description": NaN
     },
     "Atreya": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -608,7 +791,30 @@
         "Priest of": NaN,
         "Description": "Were present at Janamejaya's Snake sacrifice"
     },
+    "Ayobahu": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Ayusa": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Pururva",
@@ -630,6 +836,7 @@
         "Description": NaN
     },
     "Ayutanayi": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Mahabhouma",
@@ -651,6 +858,7 @@
         "Description": NaN
     },
     "Bahlika": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -672,6 +880,7 @@
         "Description": NaN
     },
     "Bahuka": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Kouravya",
@@ -692,7 +901,30 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Bahvashi": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Balaheda": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Takshak",
@@ -713,7 +945,52 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Balaki": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Balavardhana": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Bali": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Virochana",
@@ -735,6 +1012,7 @@
         "Description": NaN
     },
     "Bhadramana": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": NaN,
@@ -756,6 +1034,7 @@
         "Description": NaN
     },
     "Bhagadatta": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -777,6 +1056,7 @@
         "Description": NaN
     },
     "Bhagiratha": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -798,6 +1078,7 @@
         "Description": NaN
     },
     "Bhanumati": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Kritavirya",
@@ -819,6 +1100,7 @@
         "Description": NaN
     },
     "Bharata": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Dushyanta",
@@ -840,6 +1122,7 @@
         "Description": NaN
     },
     "Bhasa": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Prithushrava",
@@ -861,6 +1144,7 @@
         "Description": NaN
     },
     "Bhima": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": "Vrikodara",
         "Father": "Pandu, Varun",
@@ -881,11 +1165,12 @@
         "Priest of": NaN,
         "Description": NaN
     },
-    "Sarvaga": {
+    "Bhimabala": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
-        "Father": "Bhim",
-        "Mother": "Baladhara",
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
         "Spouse": NaN,
         "Sons": NaN,
         "Daughters": NaN,
@@ -902,11 +1187,34 @@
         "Priest of": NaN,
         "Description": NaN
     },
-    "Sutasoma": {
+    "Bhimakarma": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
-        "Father": "Bhim",
-        "Mother": "Draupadi",
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Bhimaratha": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
         "Spouse": NaN,
         "Sons": NaN,
         "Daughters": NaN,
@@ -924,6 +1232,7 @@
         "Description": NaN
     },
     "Bhimasena": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Parikshit2",
@@ -944,7 +1253,30 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Bhimavega": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Bhishma": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Shantanu",
@@ -966,6 +1298,7 @@
         "Description": NaN
     },
     "Bhrigu": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": "Kavi",
         "Father": "Brahma",
@@ -987,6 +1320,7 @@
         "Description": NaN
     },
     "Bhumanyu": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Bharata, Bhardvaja",
@@ -1008,6 +1342,7 @@
         "Description": NaN
     },
     "Bibhatsu": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -1029,6 +1364,7 @@
         "Description": NaN
     },
     "Bodhapingala": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -1050,6 +1386,7 @@
         "Description": "Were present at Janamejaya's Snake sacrifice"
     },
     "Brahma": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": "Prajapati, Isha, Daksha, Shambhu",
         "Father": NaN,
@@ -1071,6 +1408,7 @@
         "Description": NaN
     },
     "Brihanta": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -1092,6 +1430,7 @@
         "Description": NaN
     },
     "Brihaspati": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Angirasa",
@@ -1113,6 +1452,7 @@
         "Description": NaN
     },
     "Chakra": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Vasuki",
@@ -1134,6 +1474,7 @@
         "Description": NaN
     },
     "Chandabhargava": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -1154,7 +1495,162 @@
         "Priest of": NaN,
         "Description": "Were present at Janamejaya's Snake sacrifice"
     },
+    "Charuchitra": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Chitra": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Chitrabana": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Chitraksha": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Chitrakundala": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Chitranga": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Chitravarma": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Chitravarmana": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -1176,6 +1672,7 @@
         "Description": NaN
     },
     "Chyavana": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": "Bhargav",
         "Father": "Bhrigu",
@@ -1197,6 +1694,7 @@
         "Description": NaN
     },
     "Dambhodbhava": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -1218,6 +1716,7 @@
         "Description": NaN
     },
     "Danda": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -1239,10 +1738,11 @@
         "Description": NaN
     },
     "Dandadhara": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
-        "Father": NaN,
-        "Mother": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
         "Spouse": NaN,
         "Sons": NaN,
         "Daughters": NaN,
@@ -1260,6 +1760,7 @@
         "Description": NaN
     },
     "Danu": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Brahma",
@@ -1281,6 +1782,7 @@
         "Description": NaN
     },
     "Dashratha": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -1302,6 +1804,7 @@
         "Description": NaN
     },
     "Devadhipa": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -1323,6 +1826,7 @@
         "Description": NaN
     },
     "Devala": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -1344,6 +1848,7 @@
         "Description": "Were present at Janamejaya's Snake sacrifice"
     },
     "Devapi": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Pratipa",
@@ -1365,6 +1870,7 @@
         "Description": NaN
     },
     "Devasharma": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -1386,6 +1892,7 @@
         "Description": "Were present at Janamejaya's Snake sacrifice"
     },
     "Devatithi": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Akrodhana",
@@ -1406,7 +1913,30 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Devika": {
+        "Name check": 0,
+        "Gender": "F",
+        "Aliases": NaN,
+        "Father": "Govasana Shibi",
+        "Mother": NaN,
+        "Spouse": "Yudhishthira",
+        "Sons": "Youdheya",
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Devyani": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Shukra",
@@ -1427,7 +1957,30 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Dhanurgraha": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Dhara": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": NaN,
@@ -1449,6 +2002,7 @@
         "Description": NaN
     },
     "Dharma": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Brahma",
@@ -1470,6 +2024,7 @@
         "Description": NaN
     },
     "Dhrishtadyumna": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -1491,6 +2046,7 @@
         "Description": NaN
     },
     "Dhrishtaketu": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -1512,12 +2068,13 @@
         "Description": NaN
     },
     "Dhritarashtra": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Vichitravirya, Vyasa",
         "Mother": "Ambika",
         "Spouse": "Gandhari",
-        "Sons": "Duryodhana, Yuyutsu, Duhshasana, Duhsaha, Duhshala, Jalasandha, Sama, Saha, Vinda,Anuvinda, Durdharsha, Subahu, Dushpradharshana, Durmarshana, Durmukha, Dushkarma, Karna, Vivimshati,Vikarna, Sulochana, Chitra, Upachitra, Chitraksha, Charuchitra, Sharasana, Durmada, Dushpragaha, Vivitsu, Vikata, Urnanabha, Sunabha, Nanda, Upanandaka, Senapati, Sushena, Kundodara, Mahodara, Chitrabana, Chitravarma,Suvarma, Durvimochana, Ayobahu, Mahabahu, Chitranga, Chitrakundala, Bhimavega, Bhimabala, Balaki, Balavardhana, Ugrayudha, Bhimakarma, Kanakayu, Dridhayudha, Dridhavarma, Dridhakshatra, Somakirti, Anudara,Dridhasandha, Jarasandha, Satyasandha, Sadahsuvak, Ugrashrava, Ashvasena, Senani, Dushparajaya, Aparajita,Panditaka, Vishalaksha, Duravara, Dridhahasta, Suhasta, Vatavega, Suvarcha, Adityaketu, Bahvashi, Nagadanta,Ugrayayi, Kavachi, Nishangi, Pashi, Dandadhara, Dhanurgraha, Ugra, Bhimaratha, Vira, Virabahu, Alolupa, Abhaya, Roudrakarma, Dridharatha, Anadhrishya, Kundabhedi, Viravi, Dirghalochana, Dirghabahu, Mahabahu,Vyudhoru, Kanakadhvaja, Kundashi, Viraja, Jayadratha",
+        "Sons": "Duryodhana, Yuyutsu, Duhshasana, Duhsaha, Jalasandha, Sama, Saha, Vinda,Anuvinda, Durdharsha, Subahu, Dushpradharshana, Durmarshana, Durmukha, Dushkarma, Karna2, Vivimshati,Vikarna, Sulochana, Chitra, Upachitra, Chitraksha, Charuchitra, Sharasana, Durmada, Dushpragaha, Vivitsu, Vikata, Urnanabha, Sunabha, Nanda, Upanandaka, Senapati, Sushena, Kundodara, Mahodara, Chitrabana, Chitravarma,Suvarma, Durvimochana, Ayobahu, Mahabahu, Chitranga, Chitrakundala, Bhimavega, Bhimabala, Balaki, Balavardhana, Ugrayudha, Bhimakarma, Kanakayu, Dridhayudha, Dridhavarma, Dridhakshatra, Somakirti, Anudara,Dridhasandha, Jarasandha, Satyasandha, Sadahsuvak, Ugrashrava, Ashvasena, Senani, Dushparajaya, Aparajita,Panditaka, Vishalaksha, Duravara, Dridhahasta, Suhasta, Vatavega, Suvarcha, Adityaketu, Bahvashi, Nagadanta,Ugrayayi, Kavachi, Nishangi, Pashi, Dandadhara, Dhanurgraha, Ugra, Bhimaratha, Vira, Virabahu, Alolupa, Abhaya, Roudrakarma, Dridharatha, Anadhrishya, Kundabhedi, Viravi, Dirghalochana, Dirghabahu, Mahabahu,Vyudhoru, Kanakadhvaja, Kundashi, Viraja, Jayadratha",
         "Daughters": "Duhshala ",
         "Reincarnation of": NaN,
         "Disciple of": NaN,
@@ -1533,6 +2090,7 @@
         "Description": NaN
     },
     "Dhurtaka": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Kouravya",
@@ -1554,6 +2112,7 @@
         "Description": NaN
     },
     "Dhurva": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -1575,6 +2134,7 @@
         "Description": NaN
     },
     "Dilipa": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -1595,7 +2155,52 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Dirghabahu": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Dirghalochana": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Dirghaprajna": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -1617,6 +2222,7 @@
         "Description": NaN
     },
     "Diti": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Brahma",
@@ -1638,6 +2244,7 @@
         "Description": NaN
     },
     "Dranga": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Takshak",
@@ -1659,6 +2266,7 @@
         "Description": NaN
     },
     "Draupadi": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Drupad",
@@ -1679,7 +2287,140 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Dridhahasta": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Dridhakshatra": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Dridharatha": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Dridhasandha": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Dridhavarma": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Dridhayudha": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Drona": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Bhardwaj",
@@ -1701,6 +2442,7 @@
         "Description": NaN
     },
     "Druma": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -1722,6 +2464,7 @@
         "Description": NaN
     },
     "Drumasena": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -1743,6 +2486,7 @@
         "Description": NaN
     },
     "Drupada": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -1763,7 +2507,30 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Duhsaha": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Duhshanta": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Ajamidha",
@@ -1784,7 +2551,30 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Duhshasana": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Duhshashana": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -1805,7 +2595,140 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Duravara": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Durdharsha": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Durmada": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Durmarshana": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Durmukha": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Durvimochana": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Duryodhana": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Dhritarashtra",
@@ -1826,7 +2749,96 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Dushkarma": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Dushparajaya": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Dushpradharshana": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Dushpragaha": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Dushyanta": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Ilina",
@@ -1848,12 +2860,13 @@
         "Description": NaN
     },
     "Gandhari": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Subala",
         "Mother": NaN,
         "Spouse": "Dhritarashtra",
-        "Sons": "Duryodhana, Yuyutsu, Duhshasana, Duhsaha, Duhshala, Jalasandha, Sama, Saha, Vinda,Anuvinda, Durdharsha, Subahu, Dushpradharshana, Durmarshana, Durmukha, Dushkarma, Karna, Vivimshati,Vikarna, Sulochana, Chitra, Upachitra, Chitraksha, Charuchitra, Sharasana, Durmada, Dushpragaha, Vivitsu, Vikata, Urnanabha, Sunabha, Nanda, Upanandaka, Senapati, Sushena, Kundodara, Mahodara, Chitrabana, Chitravarma,Suvarma, Durvimochana, Ayobahu, Mahabahu, Chitranga, Chitrakundala, Bhimavega, Bhimabala, Balaki, Balavardhana, Ugrayudha, Bhimakarma, Kanakayu, Dridhayudha, Dridhavarma, Dridhakshatra, Somakirti, Anudara,Dridhasandha, Jarasandha, Satyasandha, Sadahsuvak, Ugrashrava, Ashvasena, Senani, Dushparajaya, Aparajita,Panditaka, Vishalaksha, Duravara, Dridhahasta, Suhasta, Vatavega, Suvarcha, Adityaketu, Bahvashi, Nagadanta,Ugrayayi, Kavachi, Nishangi, Pashi, Dandadhara, Dhanurgraha, Ugra, Bhimaratha, Vira, Virabahu, Alolupa, Abhaya, Roudrakarma, Dridharatha, Anadhrishya, Kundabhedi, Viravi, Dirghalochana, Dirghabahu, Mahabahu,Vyudhoru, Kanakadhvaja, Kundashi, Viraja",
+        "Sons": "Duryodhana, Yuyutsu, Duhshasana, Duhsaha, Jalasandha, Sama, Saha, Vinda,Anuvinda, Durdharsha, Subahu, Dushpradharshana, Durmarshana, Durmukha, Dushkarma, Karna2, Vivimshati,Vikarna, Sulochana, Chitra, Upachitra, Chitraksha, Charuchitra, Sharasana, Durmada, Dushpragaha, Vivitsu, Vikata, Urnanabha, Sunabha, Nanda, Upanandaka, Senapati, Sushena, Kundodara, Mahodara, Chitrabana, Chitravarma,Suvarma, Durvimochana, Ayobahu, Mahabahu, Chitranga, Chitrakundala, Bhimavega, Bhimabala, Balaki, Balavardhana, Ugrayudha, Bhimakarma, Kanakayu, Dridhayudha, Dridhavarma, Dridhakshatra, Somakirti, Anudara,Dridhasandha, Jarasandha, Satyasandha, Sadahsuvak, Ugrashrava, Ashvasena, Senani, Dushparajaya, Aparajita,Panditaka, Vishalaksha, Duravara, Dridhahasta, Suhasta, Vatavega, Suvarcha, Adityaketu, Bahvashi, Nagadanta,Ugrayayi, Kavachi, Nishangi, Pashi, Dandadhara, Dhanurgraha, Ugra, Bhimaratha, Vira, Virabahu, Alolupa, Abhaya, Roudrakarma, Dridharatha, Anadhrishya, Kundabhedi, Viravi, Dirghalochana, Dirghabahu, Mahabahu,Vyudhoru, Kanakadhvaja, Kundashi, Viraja, Jayadratha",
         "Daughters": "Duhshala ",
         "Reincarnation of": NaN,
         "Disciple of": NaN,
@@ -1869,6 +2882,7 @@
         "Description": NaN
     },
     "Garuda": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Kashyap",
@@ -1890,6 +2904,7 @@
         "Description": NaN
     },
     "Gaurmukha": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -1911,6 +2926,7 @@
         "Description": NaN
     },
     "Goutama": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -1932,6 +2948,7 @@
         "Description": NaN
     },
     "Halisaka": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Vasuki",
@@ -1953,6 +2970,7 @@
         "Description": NaN
     },
     "Hardikya": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -1974,6 +2992,7 @@
         "Description": NaN
     },
     "Harimedha": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -1995,6 +3014,7 @@
         "Description": NaN
     },
     "Harina": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Airavat",
@@ -2016,6 +3036,7 @@
         "Description": NaN
     },
     "Harsha": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Dharma",
@@ -2037,6 +3058,7 @@
         "Description": NaN
     },
     "Hasti": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Suhotra",
@@ -2058,6 +3080,7 @@
         "Description": NaN
     },
     "Hiranyakashipu": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -2079,6 +3102,7 @@
         "Description": NaN
     },
     "Hiranyavaha": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Vasuki",
@@ -2100,6 +3124,7 @@
         "Description": NaN
     },
     "Hritachi": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": NaN,
@@ -2121,6 +3146,7 @@
         "Description": NaN
     },
     "Ila": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Manu",
@@ -2142,6 +3168,7 @@
         "Description": NaN
     },
     "Ilina": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Tamsu",
@@ -2163,6 +3190,7 @@
         "Description": NaN
     },
     "Indra": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": "Purandara, Shakra",
         "Father": NaN,
@@ -2184,6 +3212,7 @@
         "Description": NaN
     },
     "Jahnu": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Ajamidha",
@@ -2204,7 +3233,30 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Jalasandha": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Jamadagni": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Richika",
@@ -2226,6 +3278,7 @@
         "Description": NaN
     },
     "Jana": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Ajamidha",
@@ -2247,6 +3300,7 @@
         "Description": NaN
     },
     "Janaki": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -2268,6 +3322,7 @@
         "Description": NaN
     },
     "Janamejaya": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Parikshit",
@@ -2289,6 +3344,7 @@
         "Description": NaN
     },
     "Janamejaya2": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Kuru",
@@ -2310,14 +3366,15 @@
         "Description": NaN
     },
     "Jarasandha": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
-        "Father": NaN,
-        "Mother": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
         "Spouse": NaN,
         "Sons": NaN,
         "Daughters": NaN,
-        "Reincarnation of": "Viprachitti",
+        "Reincarnation of": NaN,
         "Disciple of": NaN,
         "Disciples": NaN,
         "Cursed": NaN,
@@ -2331,6 +3388,7 @@
         "Description": NaN
     },
     "JaratkaruM": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -2351,7 +3409,30 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Jayadratha": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Jayatsena": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Sarvabhouma",
@@ -2373,6 +3454,7 @@
         "Description": NaN
     },
     "Jvala": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Takshaka",
@@ -2394,6 +3476,7 @@
         "Description": NaN
     },
     "Kadru": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Brahma",
@@ -2415,6 +3498,7 @@
         "Description": NaN
     },
     "Kahoda": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": NaN,
@@ -2436,6 +3520,7 @@
         "Description": "Were present at Janamejaya's Snake sacrifice"
     },
     "Kakshaka": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Vasuki",
@@ -2457,6 +3542,7 @@
         "Description": NaN
     },
     "Kala": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Brahma",
@@ -2478,6 +3564,7 @@
         "Description": NaN
     },
     "Kaladantaka": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Vasuki",
@@ -2499,6 +3586,7 @@
         "Description": NaN
     },
     "Kalakriti": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -2519,7 +3607,52 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Kanakadhvaja": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Kanakayu": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Karna": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Surya, Adhiratha",
@@ -2540,7 +3673,30 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Karna2": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Kashyapa": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Marichi",
@@ -2561,7 +3717,30 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Kavachi": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Khatavanga": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -2583,6 +3762,7 @@
         "Description": NaN
     },
     "Konapa": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Vasuki",
@@ -2604,6 +3784,7 @@
         "Description": NaN
     },
     "Konavega": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Vasuki",
@@ -2625,6 +3806,7 @@
         "Description": NaN
     },
     "Kotika": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Vasuki",
@@ -2646,6 +3828,7 @@
         "Description": NaN
     },
     "Koutsarya Jaimini": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -2667,6 +3850,7 @@
         "Description": "Were present at Janamejaya's Snake sacrifice"
     },
     "Krisha": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Airavat",
@@ -2688,6 +3872,7 @@
         "Description": NaN
     },
     "Krishna": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Vasudeva",
@@ -2709,6 +3894,7 @@
         "Description": NaN
     },
     "Kritavarma": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Satyaka",
@@ -2730,6 +3916,7 @@
         "Description": NaN
     },
     "Krodha": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": NaN,
@@ -2751,6 +3938,7 @@
         "Description": NaN
     },
     "Kumaraka": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Kouravya",
@@ -2771,7 +3959,30 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Kundabhedi": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Kundajathara": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -2793,6 +4004,7 @@
         "Description": "Were present at Janamejaya's Snake sacrifice"
     },
     "Kundala": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Kouravya",
@@ -2813,7 +4025,52 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Kundashi": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Kundodara": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Kunti": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": "Pritha",
         "Father": NaN,
@@ -2835,6 +4092,7 @@
         "Description": NaN
     },
     "Kuru": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Samavarana",
@@ -2856,6 +4114,7 @@
         "Description": NaN
     },
     "Kutighata": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -2877,6 +4136,7 @@
         "Description": "Were present at Janamejaya's Snake sacrifice"
     },
     "Lohitaksha": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -2897,7 +4157,30 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Mahabahu": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Mahabhouma": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Arachina",
@@ -2918,7 +4201,30 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Mahodara": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Malla": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -2940,6 +4246,7 @@
         "Description": NaN
     },
     "Manasa": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Vasuki",
@@ -2961,6 +4268,7 @@
         "Description": NaN
     },
     "Manasyu": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -2982,6 +4290,7 @@
         "Description": NaN
     },
     "Mandalaka": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Takshak",
@@ -3003,6 +4312,7 @@
         "Description": NaN
     },
     "Mandhata": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -3024,6 +4334,7 @@
         "Description": NaN
     },
     "Manu": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Brahma",
@@ -3045,6 +4356,7 @@
         "Description": NaN
     },
     "Martanda": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Yama",
@@ -3066,6 +4378,7 @@
         "Description": NaN
     },
     "Matinara": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Riksha",
@@ -3087,6 +4400,7 @@
         "Description": NaN
     },
     "Maya": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": NaN,
@@ -3108,6 +4422,7 @@
         "Description": NaN
     },
     "Menaka": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": NaN,
@@ -3129,6 +4444,7 @@
         "Description": NaN
     },
     "Moda": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Airavat",
@@ -3150,6 +4466,7 @@
         "Description": NaN
     },
     "Mondgalya": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -3171,6 +4488,7 @@
         "Description": "Were present at Janamejaya's Snake sacrifice"
     },
     "Mudgara": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Takshak",
@@ -3192,6 +4510,7 @@
         "Description": NaN
     },
     "Muka": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Takshak",
@@ -3213,6 +4532,7 @@
         "Description": NaN
     },
     "Mundo": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Kouravya",
@@ -3234,6 +4554,7 @@
         "Description": NaN
     },
     "Muni": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Brahma",
@@ -3255,6 +4576,7 @@
         "Description": NaN
     },
     "Munjakesha": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -3276,6 +4598,7 @@
         "Description": NaN
     },
     "Nabhaga": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -3296,7 +4619,30 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Nagadanta": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Nahusha": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Ayus",
@@ -3318,6 +4664,7 @@
         "Description": NaN
     },
     "Nakula": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Ashwini, Pandu",
@@ -3338,11 +4685,12 @@
         "Priest of": NaN,
         "Description": NaN
     },
-    "Niramitra": {
+    "Nanda": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
-        "Father": "Nakul",
-        "Mother": "Karenumati",
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
         "Spouse": NaN,
         "Sons": NaN,
         "Daughters": NaN,
@@ -3360,6 +4708,7 @@
         "Description": NaN
     },
     "Narada": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -3380,7 +4729,52 @@
         "Priest of": NaN,
         "Description": "Were present at Janamejaya's Snake sacrifice"
     },
+    "Niramitra": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Nakul",
+        "Mother": "Karenumati",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Nishangi": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Nriga": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": NaN,
@@ -3402,6 +4796,7 @@
         "Description": NaN
     },
     "Ourva": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Shukra",
@@ -3423,6 +4818,7 @@
         "Description": NaN
     },
     "Paila": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Vasuki",
@@ -3444,6 +4840,7 @@
         "Description": NaN
     },
     "Panchama": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": NaN,
@@ -3465,6 +4862,7 @@
         "Description": "Were present at Janamejaya's Snake sacrifice"
     },
     "Pandara": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Airavat",
@@ -3485,7 +4883,30 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Panditaka": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Pandu": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Vichitravirya, Vyasa",
@@ -3507,6 +4928,7 @@
         "Description": NaN
     },
     "Papajita": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -3528,6 +4950,7 @@
         "Description": NaN
     },
     "Parameshthi": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Ajamidha",
@@ -3549,6 +4972,7 @@
         "Description": NaN
     },
     "Parashurama": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Jamadagni",
@@ -3570,6 +4994,7 @@
         "Description": NaN
     },
     "Paravata": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Airavat",
@@ -3591,6 +5016,7 @@
         "Description": NaN
     },
     "Parikshita": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Abhimanyu",
@@ -3611,28 +5037,8 @@
         "Priest of": NaN,
         "Description": NaN
     },
-    "Parikshit3": {
-        "Gender": "M",
-        "Aliases": NaN,
-        "Father": "Abhishyanta",
-        "Mother": NaN,
-        "Spouse": NaN,
-        "Sons": "Kakshasena, Ugrasena, Chitrasena, Indrasena, Sushena, Bhimasena2",
-        "Daughters": NaN,
-        "Reincarnation of": NaN,
-        "Disciple of": NaN,
-        "Disciples": NaN,
-        "Cursed": NaN,
-        "Cursed by": NaN,
-        "Killed": NaN,
-        "Killed by": NaN,
-        "Enemy of ": NaN,
-        "Friends with": NaN,
-        "Priest": NaN,
-        "Priest of": NaN,
-        "Description": NaN
-    },
     "Parikshit2": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Arugvata",
@@ -3653,7 +5059,30 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Parikshit3": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Abhishyanta",
+        "Mother": NaN,
+        "Spouse": NaN,
+        "Sons": "Kakshasena, Ugrasena, Chitrasena, Indrasena, Sushena, Bhimasena2",
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Pariyatra": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Airavat",
@@ -3675,6 +5104,7 @@
         "Description": NaN
     },
     "Parvata": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -3696,6 +5126,7 @@
         "Description": "Were present at Janamejaya's Snake sacrifice"
     },
     "Paschimanupaka": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -3716,7 +5147,30 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Pashi": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Pata": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Kouravya",
@@ -3738,6 +5192,7 @@
         "Description": NaN
     },
     "Patara": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Kouravya",
@@ -3759,6 +5214,7 @@
         "Description": NaN
     },
     "Paushya": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -3780,6 +5236,7 @@
         "Description": NaN
     },
     "Picchila": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Vasuki",
@@ -3801,6 +5258,7 @@
         "Description": NaN
     },
     "Pindabhetta": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Takshak",
@@ -3822,6 +5280,7 @@
         "Description": NaN
     },
     "Poundramatsyaka": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -3843,6 +5302,7 @@
         "Description": NaN
     },
     "Pourava": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -3864,6 +5324,7 @@
         "Description": NaN
     },
     "Prabhasa": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Manu",
@@ -3885,6 +5346,7 @@
         "Description": NaN
     },
     "Prachinavata": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -3906,6 +5368,7 @@
         "Description": NaN
     },
     "Prahlada": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Hiranyakashipu",
@@ -3927,6 +5390,7 @@
         "Description": NaN
     },
     "Prahrada": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -3948,6 +5412,7 @@
         "Description": NaN
     },
     "Prakalana": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Vasuki",
@@ -3969,6 +5434,7 @@
         "Description": NaN
     },
     "Pramadvara": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Vishvavasu, Sthoolkesh",
@@ -3990,6 +5456,7 @@
         "Description": NaN
     },
     "Pramati": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Chyavan",
@@ -4011,6 +5478,7 @@
         "Description": NaN
     },
     "Pramoda": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Airavat",
@@ -4032,6 +5500,7 @@
         "Description": NaN
     },
     "Pratipa": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": "Paryashrava",
         "Father": "Bhimasena",
@@ -4053,6 +5522,7 @@
         "Description": NaN
     },
     "Prativindhya": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -4074,6 +5544,7 @@
         "Description": NaN
     },
     "Pratyusha": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Manu",
@@ -4095,6 +5566,7 @@
         "Description": NaN
     },
     "Pravepana": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Takshak",
@@ -4116,6 +5588,7 @@
         "Description": NaN
     },
     "Pravira": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -4137,6 +5610,7 @@
         "Description": NaN
     },
     "Pucchandaka": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Takshak",
@@ -4158,6 +5632,7 @@
         "Description": NaN
     },
     "Purna": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Vasuki",
@@ -4179,6 +5654,7 @@
         "Description": NaN
     },
     "Puru": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -4200,6 +5676,7 @@
         "Description": NaN
     },
     "Pururava": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -4221,6 +5698,7 @@
         "Description": NaN
     },
     "Pururva": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Ila",
@@ -4242,6 +5720,7 @@
         "Description": NaN
     },
     "Rabhenaka": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Takshak",
@@ -4263,6 +5742,7 @@
         "Description": NaN
     },
     "Rahu": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -4284,6 +5764,7 @@
         "Description": "Headless immortal killed by Vishnu when caught drinking Amrit meant only for the Gods."
     },
     "Rajarsi Manimana": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -4305,6 +5786,7 @@
         "Description": NaN
     },
     "Rama": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Dashrath",
@@ -4326,6 +5808,7 @@
         "Description": NaN
     },
     "Rantideva": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -4347,6 +5830,7 @@
         "Description": NaN
     },
     "Richa": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Devatithi",
@@ -4368,6 +5852,7 @@
         "Description": NaN
     },
     "Richepu": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -4389,6 +5874,7 @@
         "Description": NaN
     },
     "Richika": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Ourva",
@@ -4410,6 +5896,7 @@
         "Description": NaN
     },
     "Riksha": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Sudeva",
@@ -4431,6 +5918,7 @@
         "Description": NaN
     },
     "Rishika": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -4452,6 +5940,7 @@
         "Description": NaN
     },
     "Rochamana": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -4472,7 +5961,30 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Roudrakarma": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Roudrashva": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -4494,6 +6006,7 @@
         "Description": NaN
     },
     "Rupina": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Ajamidha",
@@ -4515,6 +6028,7 @@
         "Description": NaN
     },
     "Ruru": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Pramati",
@@ -4535,11 +6049,34 @@
         "Priest of": NaN,
         "Description": NaN
     },
-    "Saha": {
+    "Sadahsuvaka": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
-        "Father": "Vasuki",
-        "Mother": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Saha": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
         "Spouse": NaN,
         "Sons": NaN,
         "Daughters": NaN,
@@ -4557,6 +6094,7 @@
         "Description": NaN
     },
     "Sahadeva": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Ashwini, Pandu",
@@ -4577,11 +6115,12 @@
         "Priest of": NaN,
         "Description": NaN
     },
-    "Suhotra2": {
+    "Sama": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
-        "Father": "Sahadeva",
-        "Mother": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
         "Spouse": NaN,
         "Sons": NaN,
         "Daughters": NaN,
@@ -4599,6 +6138,7 @@
         "Description": NaN
     },
     "Samashrava": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Shrutashrava",
@@ -4620,6 +6160,7 @@
         "Description": NaN
     },
     "Samasourabha": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -4641,6 +6182,7 @@
         "Description": "Were present at Janamejaya's Snake sacrifice"
     },
     "Samavarana": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Ajamidha",
@@ -4662,6 +6204,7 @@
         "Description": NaN
     },
     "Samhatangada": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Airavat",
@@ -4683,6 +6226,7 @@
         "Description": NaN
     },
     "Samvarana": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Riksha",
@@ -4704,6 +6248,7 @@
         "Description": NaN
     },
     "Samyati": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Prachinavata",
@@ -4725,6 +6270,7 @@
         "Description": NaN
     },
     "Sanjaya": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -4746,6 +6292,7 @@
         "Description": NaN
     },
     "Sarvabhouma": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Ahampati",
@@ -4766,7 +6313,30 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Sarvaga": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Bhim",
+        "Mother": "Baladhara",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Satyaki": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Satyaka",
@@ -4787,7 +6357,30 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Satyasandha": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Satyavati": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": "Gandhavati, Matsyagandha, Yojanagandha",
         "Father": NaN,
@@ -4809,6 +6402,7 @@
         "Description": NaN
     },
     "Saunaka": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Sunak",
@@ -4830,6 +6424,7 @@
         "Description": NaN
     },
     "Savita": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -4851,6 +6446,7 @@
         "Description": NaN
     },
     "Senabindu": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -4871,7 +6467,52 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Senani": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Senapati": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Shakuni": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": "Soubala",
         "Father": "Subala",
@@ -4893,6 +6534,7 @@
         "Description": NaN
     },
     "Shakuntala": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Vishvamitra, Kanva",
@@ -4914,6 +6556,7 @@
         "Description": NaN
     },
     "Shalakara": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Takshak",
@@ -4935,6 +6578,7 @@
         "Description": NaN
     },
     "Shalya": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -4956,6 +6600,7 @@
         "Description": NaN
     },
     "Shama": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Dharma",
@@ -4977,6 +6622,7 @@
         "Description": NaN
     },
     "Shamanthaka": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -4998,6 +6644,7 @@
         "Description": "Were present at Janamejaya's Snake sacrifice"
     },
     "Shamika": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -5019,6 +6666,7 @@
         "Description": "Parikshit put dead snake on his shoulders"
     },
     "Shantanu": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Devapi",
@@ -5040,6 +6688,7 @@
         "Description": NaN
     },
     "Sharabha": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Airavat",
@@ -5061,6 +6710,7 @@
         "Description": NaN
     },
     "Sharana": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Vasuki",
@@ -5081,7 +6731,30 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Sharasana": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Sharmishtha": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Vrishaparva",
@@ -5103,6 +6776,7 @@
         "Description": NaN
     },
     "Sharngarava": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -5124,6 +6798,7 @@
         "Description": "Were present at Janamejaya's Snake sacrifice"
     },
     "Shashabindu": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -5145,6 +6820,7 @@
         "Description": NaN
     },
     "Shashaharoma": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Takshak",
@@ -5166,6 +6842,7 @@
         "Description": NaN
     },
     "Sheshnaaga": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Kashyap",
@@ -5187,6 +6864,7 @@
         "Description": "Base of the whole earth, supports it"
     },
     "Shili": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Takshak",
@@ -5208,6 +6886,7 @@
         "Description": NaN
     },
     "Shishupala": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -5229,6 +6908,7 @@
         "Description": NaN
     },
     "Shiva": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": "Mahesh, Sthanu",
         "Father": NaN,
@@ -5250,6 +6930,7 @@
         "Description": NaN
     },
     "Shringavega": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Kouravya",
@@ -5271,6 +6952,7 @@
         "Description": NaN
     },
     "Shringi": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Shamik",
@@ -5291,7 +6973,30 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Shrutakirti": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Arjun",
+        "Mother": "Draupadi",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Shrutashrava": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -5313,6 +7018,7 @@
         "Description": NaN
     },
     "Shukra": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -5334,6 +7040,7 @@
         "Description": NaN
     },
     "Shunaka": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -5355,6 +7062,7 @@
         "Description": NaN
     },
     "Shvetketu": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -5376,6 +7084,7 @@
         "Description": "Were present at Janamejaya's Snake sacrifice"
     },
     "Simhika": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Brahma",
@@ -5397,6 +7106,7 @@
         "Description": NaN
     },
     "Skandha": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Kouravya",
@@ -5418,6 +7128,7 @@
         "Description": NaN
     },
     "Soma": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": "Chandra",
         "Father": "Manu",
@@ -5438,7 +7149,52 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Somakirti": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Subahu": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Subala": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -5460,6 +7216,7 @@
         "Description": NaN
     },
     "Subhadra": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": NaN,
@@ -5480,7 +7237,30 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Suhasta": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Suhotra": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Bhumanyu",
@@ -5501,11 +7281,56 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Suhotra2": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Sahadeva",
+        "Mother": NaN,
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Sukumara": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Takshak",
         "Mother": NaN,
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Sulochana": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
         "Spouse": NaN,
         "Sons": NaN,
         "Daughters": NaN,
@@ -5523,6 +7348,7 @@
         "Description": NaN
     },
     "Sumana": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Takshak",
@@ -5543,7 +7369,30 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Sunabha": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Sunaka": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Ruru",
@@ -5565,6 +7414,7 @@
         "Description": NaN
     },
     "Sunanda": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Kekaya",
@@ -5586,6 +7436,7 @@
         "Description": NaN
     },
     "Sunanda Kashi": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Sarvasena",
@@ -5607,6 +7458,7 @@
         "Description": NaN
     },
     "Surabhi": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": NaN,
@@ -5628,6 +7480,7 @@
         "Description": NaN
     },
     "Surasa": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Takshak",
@@ -5649,6 +7502,7 @@
         "Description": NaN
     },
     "Surya": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": "Vibhavasu, Chitrabhanu, Arka, Tapana",
         "Father": NaN,
@@ -5669,7 +7523,96 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Sushena": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Sutasoma": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Bhim",
+        "Mother": "Draupadi",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Suvarcha": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Suvarma": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Suvastu": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -5691,6 +7634,7 @@
         "Description": NaN
     },
     "Suyajna": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Prasenajit",
@@ -5712,6 +7656,7 @@
         "Description": NaN
     },
     "Takshaka": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Kashyap",
@@ -5733,6 +7678,7 @@
         "Description": NaN
     },
     "Tamra": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": NaN,
@@ -5754,6 +7700,7 @@
         "Description": NaN
     },
     "Tamsu": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Matinara",
@@ -5775,6 +7722,7 @@
         "Description": NaN
     },
     "Trita": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": NaN,
@@ -5796,6 +7744,7 @@
         "Description": NaN
     },
     "Ucchaishrava": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -5817,6 +7766,7 @@
         "Description": "King of Horses"
     },
     "Ucchikha": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Takshak",
@@ -5837,7 +7787,30 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Ugra": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Ugrasena": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -5859,10 +7832,77 @@
         "Description": NaN
     },
     "Ugrashrava": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
-        "Father": "Lomaharshan",
-        "Mother": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Ugrayayi": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Ugrayudha": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Upachitra": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
         "Spouse": NaN,
         "Sons": NaN,
         "Daughters": NaN,
@@ -5880,6 +7920,7 @@
         "Description": NaN
     },
     "Upamanyu": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -5900,7 +7941,30 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Upanandaka": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Uparichara": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Puru",
@@ -5921,7 +7985,30 @@
         "Priest of": NaN,
         "Description": "King of Chedi"
     },
+    "Urnanabha": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Urvashi": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": NaN,
@@ -5943,6 +8030,7 @@
         "Description": NaN
     },
     "Ushinara": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -5964,6 +8052,7 @@
         "Description": NaN
     },
     "Uttara": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": NaN,
@@ -5985,6 +8074,7 @@
         "Description": NaN
     },
     "Vaishravana": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -6006,6 +8096,7 @@
         "Description": NaN
     },
     "Valmiki": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -6027,6 +8118,7 @@
         "Description": NaN
     },
     "Vapushtama": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Suvarnavarman",
@@ -6048,6 +8140,7 @@
         "Description": NaN
     },
     "Varangi": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Drishadvat",
@@ -6069,6 +8162,7 @@
         "Description": NaN
     },
     "Varcha": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Soma",
@@ -6090,6 +8184,7 @@
         "Description": NaN
     },
     "Varuna": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": "Marut",
         "Father": NaN,
@@ -6111,6 +8206,7 @@
         "Description": NaN
     },
     "Vashishtha": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Varuna",
@@ -6132,6 +8228,7 @@
         "Description": NaN
     },
     "Vasuki": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Kashyap",
@@ -6153,6 +8250,7 @@
         "Description": NaN
     },
     "Vasumitra": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -6173,7 +8271,30 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Vatavega": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Vatsya": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": NaN,
@@ -6195,6 +8316,7 @@
         "Description": "Were present at Janamejaya's Snake sacrifice"
     },
     "Veda": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -6216,6 +8338,7 @@
         "Description": NaN
     },
     "Vegavahana": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Takshak",
@@ -6237,6 +8360,7 @@
         "Description": NaN
     },
     "Veni": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Kouravya",
@@ -6258,6 +8382,7 @@
         "Description": NaN
     },
     "Vichitravirya": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Shantanu",
@@ -6279,6 +8404,7 @@
         "Description": NaN
     },
     "Vidura": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Vyasa, Shantanu",
@@ -6300,6 +8426,7 @@
         "Description": NaN
     },
     "Viduratha": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Kuru2",
@@ -6321,6 +8448,7 @@
         "Description": NaN
     },
     "Vihanga": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Airavat",
@@ -6341,7 +8469,52 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Vikarna": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Vikata": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Vikunthana": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Hasti",
@@ -6363,6 +8536,7 @@
         "Description": NaN
     },
     "Vinata": {
+        "Name check": 0,
         "Gender": "F",
         "Aliases": NaN,
         "Father": "Brahma",
@@ -6383,7 +8557,118 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Vinda": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Vira": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Virabahu": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Viraja": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Viravi": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Virochana": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Prahlada",
@@ -6405,6 +8690,7 @@
         "Description": NaN
     },
     "Virohana": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Takshak",
@@ -6425,7 +8711,30 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Vishalaksha": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Vishnu": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": "Narayana",
         "Father": NaN,
@@ -6447,6 +8756,7 @@
         "Description": NaN
     },
     "Vishva": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -6468,6 +8778,7 @@
         "Description": NaN
     },
     "Vishvakarma": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Prabhasa",
@@ -6489,6 +8800,7 @@
         "Description": NaN
     },
     "Vishvavasu": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -6510,6 +8822,7 @@
         "Description": NaN
     },
     "Vivasvata": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Kashyapa",
@@ -6530,7 +8843,52 @@
         "Priest of": NaN,
         "Description": NaN
     },
+    "Vivimshati": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
+    "Vivitsu": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Vyasa": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": "Krishna Dvaipayana",
         "Father": "Parashara",
@@ -6551,7 +8909,30 @@
         "Priest of": NaN,
         "Description": "Were present at Janamejaya's Snake sacrifice"
     },
+    "Vyudhoru": {
+        "Name check": 0,
+        "Gender": "M",
+        "Aliases": NaN,
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
+        "Daughters": NaN,
+        "Reincarnation of": NaN,
+        "Disciple of": NaN,
+        "Disciples": NaN,
+        "Cursed": NaN,
+        "Cursed by": NaN,
+        "Killed": NaN,
+        "Killed by": NaN,
+        "Enemy of ": NaN,
+        "Friends with": NaN,
+        "Priest": NaN,
+        "Priest of": NaN,
+        "Description": NaN
+    },
     "Yama": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Vivasvata",
@@ -6573,6 +8954,7 @@
         "Description": NaN
     },
     "Yayati": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Nahush",
@@ -6594,6 +8976,7 @@
         "Description": NaN
     },
     "Yayavara": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": NaN,
@@ -6615,6 +8998,7 @@
         "Description": NaN
     },
     "Yudhishthira": {
+        "Name check": 0,
         "Gender": "M",
         "Aliases": NaN,
         "Father": "Pandu, Dharma",
@@ -6635,13 +9019,14 @@
         "Priest of": NaN,
         "Description": NaN
     },
-    "Devika": {
-        "Gender": "F",
+    "Yuyutsu": {
+        "Name check": 0,
+        "Gender": "M",
         "Aliases": NaN,
-        "Father": "Govasana Shibi",
-        "Mother": NaN,
-        "Spouse": "Yudhishthira",
-        "Sons": "Youdheya",
+        "Father": "Dhritarashtra",
+        "Mother": "Gandhari",
+        "Spouse": NaN,
+        "Sons": NaN,
         "Daughters": NaN,
         "Reincarnation of": NaN,
         "Disciple of": NaN,
