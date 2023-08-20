@@ -222,7 +222,7 @@ function subsetGraphByKeyword(keyword, maxLevels) {
             const otherNodeId = link.source.id === nodeId ? link.target.id : link.source.id;
             if (!connectedNodeIds.has(otherNodeId)) {
                 connectedNodeIds.add(otherNodeId);
-                newLinks.push({ source: nodeId, target: otherNodeId }); // Create new link
+                newLinks.push(link); // Preserve the original link
                 findConnectedNodes(otherNodeId, currentLevel + 1);
             }
         });

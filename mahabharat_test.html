@@ -45,6 +45,20 @@
 </head>
 
 <body>
+  <div>
+    <h1>Mahabharat Relation Graph</h1>
+    <br>
+    <label for="filter-input">Filter by Character name:</label>
+    <br>
+    <input type="text" id="filter-input" value="Arjuna">
+    <br>
+    <label for="maxLevels">Max Levels:</label>
+    <br>
+    <input type="number" id="maxLevels" value="2">
+    <br>
+    <button id="filter-button">Filter</button>
+  </div>
+
   <svg>
     <defs>
       <marker id="arrowhead" markerWidth="5" markerHeight="3.5" refX="7.5" refY="1.75" orient="auto">
@@ -52,15 +66,7 @@
       </marker>
     </defs>
   </svg>
-  <div>
-    <label for="filter-input">Filter by Keyword:</label>
-    <input type="text" id="filter-input" />
-    <br>
-    <label for="maxLevels">Max Levels:</label>
-    <input type="number" id="maxLevels" value="2">
-    <br>
-    <button id="filter-button">Filter</button>
-  </div>
+
   <script src="https://d3js.org/d3.v4.min.js"></script>
   <script src="code.js"></script>
 </body>
