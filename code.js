@@ -28,11 +28,9 @@ d3.select("#filter-button").on("click", function () {
     console.log("Filtered Nodes:", filteredGraph.nodes);
     console.log("Filtered Links:", filteredGraph.links);
 
-
-    clearGraph(); // Clear existing nodes and links
     simulation.nodes(filteredGraph.nodes);
     simulation.force("link").links(filteredGraph.links);
-    // updateAll(); // Update both forces and display
+
     initializeDisplay(); // Reinitialize the visualization with the filtered data
     initializeSimulation(); // Reinitialize the simulation with the filtered data
 });
@@ -57,8 +55,8 @@ let forceProperties = {
     },
     charge: {
         enabled: true,
-        strength: -90,
-        distanceMin: 1,
+        strength: -100,
+        distanceMin: 10,
         distanceMax: 2000
     },
     collide: {
@@ -122,7 +120,7 @@ function updateForces() {
         .id(function (d) { return d.id; })
         .distance(forceProperties.link.distance)
         .iterations(forceProperties.link.iterations)
-        .links(forceProperties.link.enabled ? graph.links : []);
+        .links(forceProperties.link.enabled ? filteredGraph.links : []);
 
     // updates ignored until this is run
     // restarts the simulation (important if simulation has already slowed down)
@@ -135,12 +133,34 @@ function updateForces() {
 
 // generate the svg objects and force simulation
 function initializeDisplay() {
+
+    clearGraph(); // Clear existing nodes and links
+
     // set the data and properties of link lines
     link = svg.append("g")
         .attr("class", "links")
         .selectAll("line")
         .data(filteredGraph.links)
-        .enter().append("line");
+        .enter().append("line")
+        .attr("stroke-width", 2)
+        .attr("stroke", "black") // Set link color based on the group attribute
+        .attr("marker-end", "url(#arrowhead)"); // Use the arrowhead marker for the link's end
+
+
+    // Append arrowhead markers to the <defs> element
+    svg.append("defs").selectAll("marker")
+        .data(["arrowhead"]) // Give a unique ID for the marker
+        .enter().append("marker")
+        .attr("id", function (d) { return d; })
+        .attr("viewBox", "0 -5 10 10") // Set the viewBox to define the marker's coordinate system
+        .attr("refX", 15) // Set the x-coordinate for the arrowhead
+        .attr("refY", 0) // Set the y-coordinate for the arrowhead
+        .attr("markerWidth", 6) // Set the marker width
+        .attr("markerHeight", 6) // Set the marker height
+        .attr("orient", "auto") // Automatically orient the arrowhead based on the link's direction
+        .append("path")
+        .attr("d", "M0,-5L10,0L0,5"); // Define the arrowhead path
+
 
     // set the data and properties of node circles
     node = svg.append("g")
@@ -167,9 +187,25 @@ function initializeDisplay() {
             .on("drag", dragged)
             .on("end", dragended));
 
+    // Append the node IDs as text labels
+    nodeLabels = svg.append("g")
+        .attr("class", "node-label")
+        .selectAll(".node-label")
+        .data(filteredGraph.nodes)
+        .enter().append("text")
+        .attr("class", "node-label")
+        .text(function (d) { return d.id; });
+
+    nodeLabels.style("font-size", "12px"); // Set initial font size
+
     // node tooltip
     node.append("title")
         .text(function (d) { return d.id; });
+
+    // Add event listeners to nodes for hover and click
+    node.on("mouseover", handleMouseOver)
+        .on("mouseout", handleMouseOut);
+
     // visualize the graph
     updateDisplay();
 }
@@ -194,14 +230,33 @@ function ticked() {
         .attr("x2", function (d) { return d.target.x; })
         .attr("y2", function (d) { return d.target.y; })
         .attr("marker-end", function (d) {
-            const arrowheadScale = 200; // Adjust the scale factor as needed
+            const arrowheadScale = 2000; // Adjust the scale factor as needed
             return `url(#arrowhead) scale(${arrowheadScale}) translate(0, 700)`; // Translate to center vertically
         });
 
     node
         .attr("cx", function (d) { return d.x; })
         .attr("cy", function (d) { return d.y; });
-    d3.select('#alpha_value').style('flex-basis', (simulation.alpha() * 100) + '%');
+
+    // Update node label positions
+    nodeLabels
+        .attr("x", function (d) { return d.x; })
+        .attr("y", function (d) { return d.y; });
+
+    // d3.select('#alpha_value').style('flex-basis', (simulation.alpha() * 100) + '%');
+}
+
+
+// Event handler for mouseover
+function handleMouseOver(d) {
+    d3.select(this).select("circle").attr("r", 7); // Increase circle radius
+    d3.select(this).select(".node-label").style("font-size", "16px"); // Increase text size
+}
+
+// Event handler for mouseout
+function handleMouseOut(d) {
+    d3.select(this).select("circle").attr("r", 5); // Reset circle radius
+    d3.select(this).select(".node-label").style("font-size", "12px"); // Reset text size
 }
 
 // Function to subset graph based on a keyword
@@ -242,8 +297,11 @@ function subsetGraphByKeyword(keyword, maxLevels) {
 
 function clearGraph() {
     // Remove existing nodes and links from the SVG
-    svg.selectAll(".nodes").selectAll("*").remove();
-    svg.selectAll(".links").selectAll("*").remove();
+    //     svg.selectAll(".node-label").remove();
+    //     svg.selectAll(".nodes").selectAll("*").remove();
+    //     svg.selectAll(".links").selectAll("*").remove();
+    //     svg.selectAll(".node-label").remove();
+    svg.selectAll("*").remove();
 }
 //////////// UI EVENTS ////////////
 

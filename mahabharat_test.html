@@ -41,6 +41,45 @@
       stroke: #fff;
       stroke-width: 1.5px;
     }
+
+    /* Apply styles to node text */
+    .node-label {
+      font-size: 12px;
+      pointer-events: none;
+      /* Prevent text from blocking interactions */
+      text-anchor: top;
+      fill: black;
+    }
+
+    .legend-container {
+      background-color: white;
+      border: 1px solid #ccc;
+      padding: 10px;
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      /* Adjusted from left to right */
+      height: 10%;
+      overflow-y: auto;
+    }
+
+    .legend-list {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    .legend-item {
+      /* Optional styling for each legend item */
+      display: flex;
+      align-items: center;
+      margin-bottom: 5px;
+    }
+
+    .legend-color {
+      width: 20px;
+      height: 20px;
+      margin-right: 5px;
+    }
   </style>
 </head>
 
@@ -58,6 +97,24 @@
     <br>
     <button id="filter-button">Filter</button>
   </div>
+
+  <div class="legend-container">
+    <ul class="legend-list">
+      <li class="legend-item">
+        <div class="legend-color" style="background-color: #1f77b4;"></div>
+        <span>Male</span>
+      </li>
+      <li class="legend-item">
+        <div class="legend-color" style="background-color: #ff7f0e ;"></div>
+        <span>Female</span>
+      </li>
+      <li class="legend-item">
+        <div class="legend-color" style="background-color: #800080;"></div>
+        <span>Selected</span>
+      </li>
+    </ul>
+  </div>
+
 
   <svg>
     <defs>
