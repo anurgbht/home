@@ -13,7 +13,8 @@ let keyword;
 let color = d3.scaleOrdinal(d3.schemeCategory10);
 
 // load the data
-d3.json("Character Map.json", function (error, _graph) {
+// C:\Users\User\Documents\GitDevelop\home\assets\mahabharat\Character Map.json
+d3.json("\\assets\\mahabharat\\Character Map.json", function (error, _graph) {
     if (error) throw error;
     graph = _graph;
     filteredGraph = _graph;

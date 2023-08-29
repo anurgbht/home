@@ -1,6 +1,9 @@
 import json
 import string
 import pandas as pd
+from pathlib import Path
+
+ROOT_DIR = Path(__file__).parent
 
 gender_color_map = {"M": 1, "F": 5, "X": 3}
 
@@ -121,12 +124,15 @@ def standard_name(name_str):
 
 
 if __name__ == "__main__":
-    character_df = pd.read_excel("Character Map.xlsx", index_col=0)
+    excel_path = Path(ROOT_DIR, "assets", "mahabharat", "Character Map.xlsx")
+
+    character_df = pd.read_excel(excel_path, index_col=0)
     character_df.index = character_df.index.map(standard_name)
 
     character_dict = character_df.T.to_dict()
 
-    with open("Character Dict.json", "w") as file:
+    character_dict_path = Path(ROOT_DIR, "assets", "mahabharat", "Character Dict.json")
+    with open(character_dict_path, "w") as file:
         json.dump(character_dict, file, indent=4)
 
     node_list = []
@@ -190,5 +196,6 @@ if __name__ == "__main__":
     character_map["nodes"] = node_list
     character_map["links"] = link_list
 
-    with open("Character Map.json", "w") as file:
+    character_map_path = Path(ROOT_DIR, "assets", "mahabharat", "Character Map.json")
+    with open(character_map_path, "w") as file:
         json.dump(character_map, file, indent=4)

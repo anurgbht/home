@@ -1,1 +1,1 @@
-My personal webpage, deployed on github. The pet-project of Mahabharat Relationship Graphs is hosted here as well.
+My personal webpage, deployed on github. The pet-project of Mahabharat Relationship Graphs and personal blog are hosted here as well.
