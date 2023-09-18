@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="description" content="A JavaScript horizontal / vertical timeline component plugin">
+    <title>Timeline Prototype</title>
+    <link href="index_files/style.css" rel="stylesheet">
+    <link href="index_files/prettyprint.css" rel="stylesheet">
+    <link href="index_files/timeline.css" rel="stylesheet">
+    <link href="index_files/css.css" rel="stylesheet">
+</head>
+
+<body>
+    <main>
+        <header class="main-header">
+            <div class="container">
+                <h1>History of Ancient India</h1>
+                <h3>A visual history of the chronology of events and people in Ancient India. Most of the information is
+                    gathered while reading <a href="https://en.wikipedia.org/wiki/Ram_Sharan_Sharma">R.S.Sharma</a>'s
+                    great book <a href="https://global.oup.com/academic/product/indias-ancient-past-9780195687859?cc=de&lang=en&">India's Ancient Past</a>
+                </h3>
+            </div>
+        </header>
+
+        <section class="page-section" id="vertical-demo">
+            <div class="container">
+                <div class="timeline timeline--loaded" id="timeline-vertical" style="opacity: 1;">
+                    <div class="timeline__wrap">
+                        <div class="timeline__items">
+                            <div class="timeline__item timeline__item--right fadeIn">
+                                <div class="timeline__item__inner">
+                                    <div class="timeline__content__wrap">
+                                        <div class="timeline__content">
+                                            <h2>2018</h2>
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
+                                                dignissim neque condimentum
+                                                lacus dapibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="timeline__item timeline__item--left fadeIn">
+                                <div class="timeline__item__inner">
+                                    <div class="timeline__content__wrap">
+                                        <div class="timeline__content">
+                                            <h2>2015</h2>
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
+                                                dignissim neque condimentum
+                                                lacus dapibus.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="timeline__item timeline__item--right fadeIn">
+                                <div class="timeline__item__inner">
+                                    <div class="timeline__content__wrap">
+                                        <div class="timeline__content">
+                                            <h2>2014</h2>
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
+                                                dignissim neque condimentum
+                                                lacus dapibus.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="timeline__item timeline__item--left fadeIn">
+                                <div class="timeline__item__inner">
+                                    <div class="timeline__content__wrap">
+                                        <div class="timeline__content">
+                                            <h2>2012</h2>
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
+                                                dignissim neque condimentum
+                                                lacus dapibus.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="timeline__item timeline__item--right fadeIn">
+                                <div class="timeline__item__inner">
+                                    <div class="timeline__content__wrap">
+                                        <div class="timeline__content">
+                                            <h2>2010</h2>
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
+                                                dignissim neque condimentum
+                                                lacus dapibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="timeline__item animated timeline__item--left fadeIn">
+                                <div class="timeline__item__inner">
+                                    <div class="timeline__content__wrap">
+                                        <div class="timeline__content">
+                                            <h2>2007</h2>
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
+                                                dignissim neque condimentum
+                                                lacus dapibus.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="timeline__item animated timeline__item--right fadeIn">
+                                <div class="timeline__item__inner">
+                                    <div class="timeline__content__wrap">
+                                        <div class="timeline__content">
+                                            <h2>2004</h2>
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
+                                                dignissim neque condimentum
+                                                lacus dapibus.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="timeline__item animated timeline__item--left fadeIn">
+                                <div class="timeline__item__inner">
+                                    <div class="timeline__content__wrap">
+                                        <div class="timeline__content">
+                                            <h2>2002</h2>
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
+                                                dignissim neque condimentum
+                                                lacus dapibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- /container -->
+        </section>
+    </main>
+    <script src="index_files/jquery.js"></script>
+    <script src="index_files/timeline.js"></script>
+    <script src="index_files/prettify.js"></script>
+    <script src="index_files/main.js"></script>
+    <script async="" defer="defer" src="index_files/buttons.js"></script>
+    <script>
+        timeline(document.querySelectorAll('#timeline-horizontal'), {
+            forceVerticalMode: 800,
+            mode: 'horizontal',
+            visibleItems: 4
+        });
+        timeline(document.querySelectorAll('#timeline-vertical'), {
+            verticalStartPosition: 'right',
+            verticalTrigger: '150px'
+        });
+    </script>
+
+
+</body>
+
+</html>
