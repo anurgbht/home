@@ -23,7 +23,6 @@ for i, row in raw_df.iterrows():
     if str(row['End Date']) != 'nan':
         end_date = format_date(row['End Date'])
     else:
-        print("No end date")
         end_date = None
 
     if end_date:
