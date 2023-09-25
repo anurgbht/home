@@ -1,111 +1,344 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html>
+<!DOCTYPE html>
+<html lang="en">
 
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thesis details - Anurag Bhatt</title>
+    <link
+        href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic|Open+Sans:300,400,500,700|Waiting+for+the+Sunrise|Shadows+Into+Light'
+        rel='stylesheet' type='text/css'>
+    <style>
+        *,
+        *:before,
+        *:after {
+            -moz-box-sizing: border-box;
+            -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+        }
 
-	<title>Anurag Bhatt | Data Scientist</title>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        html {
+            font-size: 100%;
+        }
 
-	<meta name="keywords" content="" />
-	<meta name="description" content="" />
+        body {
+            -webkit-font-smoothing: antialiased;
+            color: #333332;
+            font-family: Lora, serif;
+            font-size: 18px;
+            font-weight: 400;
+            line-height: 1.4;
+            text-rendering: optimizeLegibility;
+        }
 
+        .skill-set li:hover {
+            background: #3498db;
+        }
 
-	<link rel="stylesheet" type="text/css" href="assets/css/for_resume.css" media="all" />
+        h1 {
+            color: rgba(0, 0, 0, .75);
+        }
 
+        .wrapper {
+            height: 100%;
+        }
+
+        .left {
+            background-color: rgba(0, 0, 0, .025);
+            border-right: 1px solid rgba(0, 0, 0, .05);
+            float: right;
+            height: 100%;
+            margin-left: -1px;
+            min-width: 256px;
+            position: fixed;
+            width: 33.33%;
+        }
+
+        .right {
+            float: right;
+            height: 100%;
+            position: relative;
+            width: 66.66%;
+        }
+
+        .name-hero {
+            background: rgba(0, 0, 0, .001);
+            bottom: 0;
+            height: 290px;
+            left: 0;
+            margin: auto;
+            position: absolute;
+            right: 0;
+            top: 0;
+            width: 85%;
+        }
+
+        .me-img {
+            background: url(https://media-exp1.licdn.com/dms/image/C4E03AQGnLq_IB_mf8Q/profile-displayphoto-shrink_400_400/0/1631022739752?e=1648684800&v=beta&t=eICUjHeH_g9GQEItmEMK1j2gCADwqfjrlccSD_5za58) no-repeat center center;
+            background-size: 100%;
+            background-position: 0px;
+            border-radius: 100%;
+            height: 150px;
+            margin: 0 auto;
+            position: relative;
+            width: 150px;
+        }
+
+        .name-hero h1 {
+            font-family: Open Sans, sans-serif;
+            font-size: 1.5em;
+            text-align: center;
+        }
+
+        .name-hero h1 em {
+            color: rgba(0, 0, 0, .3);
+            font-style: normal;
+            font-weight: 700;
+        }
+
+        .name-hero p {
+            color: rgba(0, 0, 0, .75);
+            font-size: .75em;
+            line-height: 1.5;
+            margin: 0 8px 0 0;
+            text-align: center;
+        }
+
+        .name-hero .name-text {
+            margin: 0 auto;
+            width: 85%;
+        }
+
+        .inner {
+            margin: 0 auto;
+            max-width: 975px;
+            padding: 3em;
+        }
+
+        .inner h1 {
+            font-size: 1.75em;
+        }
+
+        .inner p {
+            color: rgba(0, 0, 0, 1);
+        }
+
+        .inner p em {
+            color: rgba(0, 0, 0, 1);
+            font-style: normal;
+        }
+
+        .inner section {
+            margin: 100px auto;
+        }
+
+        ul {
+            list-style-type: none;
+            margin-top: -10px;
+            max-width: 570px;
+            padding: 0;
+        }
+
+        .skill-set li {
+            background: rgba(0, 0, 0, .75);
+            border-radius: 5px;
+            color: #FFF;
+            display: inline-block;
+            list-style: none;
+            margin: 15px 15px 0 0;
+            padding: 10px;
+            text-align: justify;
+        }
+
+        @media screen and (max-width: 48em) {
+
+            .right,
+            .left {
+                float: none;
+                position: relative !important;
+                width: 100%;
+                min-height: 500px;
+            }
+
+            .handmade {
+                text-align: center !important;
+                margin-top: 0px !important;
+            }
+        }
+
+        @media screen and (max-width: 75em) {
+            body {
+                font-size: 16px;
+            }
+        }
+
+        @media screen and (max-width: 60em) {
+            body {
+                font-size: 14px;
+            }
+        }
+
+        .clearfix:after {
+            content: " ";
+            visibility: hidden;
+            display: block;
+            height: 0;
+            clear: both;
+        }
+
+        .handmade {
+            text-align: right;
+            margin-top: 100px;
+        }
+
+        .handmade em {
+            font-family: 'Shadows Into Light', cursive;
+            font-size: 1.25em;
+            margin-left: 5px;
+        }
+
+        li {
+            text-align: justify;
+            margin-bottom: 10px;
+            line-height: 1.5;
+        }
+
+        li:before {
+            content: "\2022";
+            /* Bullet circle character */
+            color: #000000;
+            /* Bullet color */
+            font-weight: bold;
+            display: inline-block;
+            width: 1em;
+            /* Adjust the width as needed */
+            margin-left: -1em;
+            /* Negative margin to overlap with text */
+        }
+    </style>
 </head>
 
 <body>
+    <div class="wrapper clearfix">
+        <div class="left">
+            <div class="name-hero">
+                <div class="me-img"></div>
+                <div class="name-text">
+                    <h1>Anurag <em>Bhatt</em></h1>
+                </div>
+            </div>
+        </div>
+        <div class="right">
+            <div class="inner">
+                <section>
+                    <h1>Master's Thesis Details</h1>
+                    <p>I had the privilege of collaborating with <a href="http://home.iitk.ac.in/~anindya/">Anindya
+                            Chatterjee</a> during my thesis research at IIT Kanpur.</p>
+                    <h3>A Two-Step Item Response Theory Model for India’s Graduate Aptitude Test in Engineering (GATE)
+                    </h3>
 
-	<div id="doc2" class="yui-t7">
-		<div id="inner">
+                    <p>Classical test scoring faces many problems. Fixed
+                        marks that represent difficulty leads to ties in the results. Our work tries to address these
+                        issues in the following way - </p>
+                    <ul>
+                        <li>
+                            <strong>Dynamic Difficulty Determination:</strong> A post-facto analysis of the data
+                            gathered during the exam, such as the answer-sheets, can be used to dynamically determine
+                            the difficulty of the questions. This dynamic assessment allows for a more accurate
+                            evaluation of question difficulty.
+                        </li>
+                        <li>
+                            <strong>Unique Rank Assignment:</strong> Using this dynamic analysis, it becomes possible to
+                            award a unique rank to each student based on their performance. Unique ranking provides a
+                            fairer assessment of individual abilities.
+                        </li>
+                        <li>
+                            <strong>Item Response Theory (IRT):</strong> IRT, in conjunction with Maximum Likelihood
+                            Estimation, is employed to determine the unique ranks and difficulty of test items. IRT
+                            models the relationship between a respondent's abilities and the properties of the items.
+                        </li>
+                        <li>
+                            <strong>Correlation with GATE Score:</strong> The results obtained through dynamic scoring
+                            are correlated with the existing GATE score to ensure consistency in the predictions. This
+                            helps maintain alignment with established assessment standards.
+                        </li>
+                        <li>
+                            <strong>Challenges in Indian Test-Taking:</strong> The assumptions of Item Response Theory
+                            may be challenged in the context of the Indian test-taking scenario. Factors like the
+                            presence of the coaching industry and negative marking introduce complexities that need to
+                            be addressed.
+                        </li>
+                        <li>
+                            <strong>Alternative Formulations:</strong> To better represent the Graduate Aptitude Test in
+                            Engineering (GATE) and similar exams, alternative formulations are proposed. These
+                            formulations aim to adapt to the unique characteristics of the Indian testing landscape.
+                        </li>
+                        <li>
+                            <strong>Extension to Online Tests:</strong> The same theory can be extended to design online
+                            tests that dynamically learn the "quality" of the student. These tests adapt by selecting
+                            questions that match the student's level of proficiency, providing a more personalized
+                            assessment experience.
+                        </li>
+                    </ul>
 
-			<div id="hd">
-				<div class="yui-gc">
-					<div class="yui-u first">
-						<h1><a href = "index.html">Anurag Bhatt</a></h1>
-						<h2>Data Scientist</h2>
-					</div>
+                    <h3>Parameters of a 3-Parameter Fréchet Distribution for NDT of Concrete using UPV</h3>
+                    <p>In Non-Destructive Testing (NDT) of concrete using Ultrasonic Pulse Velocity (UPV), statistical
+                        analysis often involves the use of probability distributions to describe the behavior of data.
+                        The 3-parameter Fréchet distribution is one such distribution that finds utility in modeling and
+                        analyzing UPV data from concrete testing.</p>
 
-					<div class="yui-u">
-						<div class="contact-info">
-							<h3><a id="pdf" href="assets/cv/Anurag Bhatt - Data Scientist TSCNET - CV.pdf">Download
-									CV</a></h3>
-							<h3><a href="mailto:anuraag.bhatt@gmail.com">anuraag.bhatt@gmail.com</a></h3>
-						</div>
-						<!--// .contact-info -->
-					</div>
-				</div>
-				<!--// .yui-gc -->
-			</div>
-			<!--// hd -->
+                    <p>The 3-parameter Fréchet distribution is characterized by three key parameters that help describe
+                        the statistical properties of the data:</p>
 
-			<div id="bd">
-				<div id="yui-main">
-					<div class="yui-b">
+                    <ul>
+                        <li><strong>Location Parameter:</strong> This parameter represents the minimum value or
+                            lower bound for the distribution. In the context of UPV testing, it may correspond to the
+                            minimum achievable velocity in concrete or a baseline value.</li>
+                        <li><strong>Scale Parameter:</strong> The scale parameter governs the spread or variability
+                            of the data. For UPV, it may indicate how UPV values deviate from the minimum value,
+                            reflecting the degree of heterogeneity or variability in concrete quality.</li>
+                        <li><strong>Shape Parameter:</strong> The shape parameter determines the shape of the
+                            distribution. It influences the tail behavior, indicating whether the distribution is skewed
+                            or has heavy tails. In UPV testing, the shape parameter may capture characteristics related
+                            to the presence of flaws or anomalies in concrete.</li>
+                    </ul>
 
-						<div class="yui-gf">
+                    <p><strong>Confidence Intervals for Estimated Parameters:</strong></p>
 
-							<div class="yui-u first">
-								<h2>Master's Thesis</h2>
-							</div>
-							<!--// .yui-u -->
+                    <p>To make meaningful inferences from UPV data, it's essential to estimate the values of these
+                        parameters accurately. Estimation typically involves fitting the 3-parameter Fréchet
+                        distribution to the observed data. Once the estimates are obtained, confidence intervals can be
+                        calculated to quantify the uncertainty associated with each parameter estimate.</p>
 
-							<div class="yui-u">
+                    <p>Confidence intervals provide a range of values within which the true parameter value is likely to
+                        lie, along with a specified level of confidence (e.g., 95% confidence interval). These intervals
+                        help assess the reliability of the parameter estimates and the robustness of the chosen
+                        distribution in modeling UPV data.</p>
 
-								<div class="job">
-									<h2>A Two-Step Item Response Theory Model for India’s Graduate Aptitude Test in
-										Engineering (GATE)</h2>
-									<h3 style="font-style: italic;">Key technologies: Python, Pandas, TensorFlow</h3>
-									<p>Classical test scoring faces many problems. Fixed marks that represent difficulty
-										leads to ties in the results. A post-facto analysis of the data gathered during
-										the exam, the answer-sheets, can be used to dynamically determine the difficulty
-										of the questions and award a unique rank to each student. We used Item Response
-										Theory in conjunction with Maximum Likelihood Estimation to determine the unique
-										ranks and difficulty. The results were correlated with the existing GATE score
-										to ensure consistency in the predictions. The assumptions of Item Response
-										Theory were challenged in the context of the Indian test taking scenario, such
-										as the presence of the coaching industry and negative marking, and alternative
-										formulations were proposed that better represent GATE. The same theory can be
-										extended to design online test that dynamically learn the “quality” of the
-										student and subsequently determines the best set of questions to gauge it.</p>
-								</div>
-
-								<div class="job last">
-									<h2>Parameter estimation of 3-parameter Fréchet Distribution</h2>
-									<h3 style="font-style: italic;">Key technologies: Python, Pandas, TensorFlow</h3>
-									<p>Find all parameters of a 3-parameter Fréchet distribution useful in describing
-										the statistics from Non-Destructive Testing (NDT) of concrete using Ultrasonic
-										Pulse Velocity (UPV) and find the confidence intervals for estimated parameter
-									</p>
-								</div>
-
-							</div>
-
-						</div>
-
-						<!--// .yui-u -->
-					</div>
-					<!--// .yui-gf -->
-
-				</div>
-				<!--// .yui-b -->
-			</div>
-			<!--// yui-main -->
-		</div>
-		<!--// bd -->
-
-		<div id="ft">
-			<p>Anurag Bhatt &mdash; <a href="mailto:anuraag.bhatt@gmail.com">anuraag.bhatt@gmail.com</a></p>
-		</div>
-		<!--// footer -->
-
-	</div><!-- // inner -->
+                    <p>The construction of confidence intervals involves statistical techniques such as maximum
+                        likelihood estimation (MLE) or Bayesian methods. These methods take into account the sample size
+                        and the observed data's characteristics.</p>
 
 
-	</div>
-	<!--// doc -->
+                </section>
+                <section>
+                    <h1>Key technologies</h1>
+                    <ul class="skill-set">
+                        <li>Python</li>
+                        <li>Pandas</li>
+                        <li>TansorFlow</li>
+                        <li>MatLab</li>
+                    </ul>
+                </section>
 
-
+                <section>
+                    <div id="ft">
+                        <p>Anurag Bhatt &mdash; <a href="mailto:anuraag.bhatt@gmail.com">anuraag.bhatt@gmail.com</a></p>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
 </body>
 
 </html>

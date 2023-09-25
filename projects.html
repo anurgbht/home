@@ -1,182 +1,516 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html>
+<!DOCTYPE html>
+<html lang="en">
 
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project details - Anurag Bhatt</title>
+    <link
+        href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic|Open+Sans:300,400,500,700|Waiting+for+the+Sunrise|Shadows+Into+Light'
+        rel='stylesheet' type='text/css'>
+    <style>
+        *,
+        *:before,
+        *:after {
+            -moz-box-sizing: border-box;
+            -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+        }
 
-	<title>Anurag Bhatt | Data Scientist</title>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        html {
+            font-size: 100%;
+        }
 
-	<meta name="keywords" content="" />
-	<meta name="description" content="" />
+        body {
+            -webkit-font-smoothing: antialiased;
+            color: #333332;
+            font-family: Lora, serif;
+            font-size: 18px;
+            font-weight: 400;
+            line-height: 1.4;
+            text-rendering: optimizeLegibility;
+        }
 
+        .skill-set li:hover {
+            background: #3498db;
+        }
 
-	<link rel="stylesheet" type="text/css" href="assets/css/for_resume.css" media="all" />
+        h1 {
+            font-size: 150;
+            color: rgba(0, 0, 0, .75);
+        }
+
+        .wrapper {
+            height: 100%;
+        }
+
+        .left {
+            background-color: rgba(0, 0, 0, .025);
+            border-right: 1px solid rgba(0, 0, 0, .05);
+            float: right;
+            height: 100%;
+            margin-left: -1px;
+            min-width: 256px;
+            position: fixed;
+            width: 33.33%;
+        }
+
+        .right {
+            float: right;
+            height: 100%;
+            position: relative;
+            width: 66.66%;
+        }
+
+        .name-hero {
+            background: rgba(0, 0, 0, .001);
+            bottom: 0;
+            height: 290px;
+            left: 0;
+            margin: auto;
+            position: absolute;
+            right: 0;
+            top: 0;
+            width: 85%;
+        }
+
+        .me-img {
+            background: url(https://media-exp1.licdn.com/dms/image/C4E03AQGnLq_IB_mf8Q/profile-displayphoto-shrink_400_400/0/1631022739752?e=1648684800&v=beta&t=eICUjHeH_g9GQEItmEMK1j2gCADwqfjrlccSD_5za58) no-repeat center center;
+            background-size: 100%;
+            background-position: 0px;
+            border-radius: 100%;
+            height: 150px;
+            margin: 0 auto;
+            position: relative;
+            width: 150px;
+        }
+
+        .name-hero h1 {
+            font-family: Open Sans, sans-serif;
+            font-size: 1.5em;
+            text-align: center;
+        }
+
+        .name-hero h1 em {
+            color: rgba(0, 0, 0, .3);
+            font-style: normal;
+            font-weight: 700;
+        }
+
+        .name-hero p {
+            color: rgba(0, 0, 0, .75);
+            font-size: .75em;
+            line-height: 1.5;
+            margin: 0 8px 0 0;
+            text-align: center;
+        }
+
+        .name-hero .name-text {
+            margin: 0 auto;
+            width: 85%;
+        }
+
+        .inner {
+            margin: 0 auto;
+            max-width: 975px;
+            padding: 3em;
+        }
+
+        .inner h1 {
+            font-size: 1.75em;
+        }
+
+        .inner p {
+            color: rgba(0, 0, 0, 1);
+        }
+
+        .inner p em {
+            color: rgba(0, 0, 0, 1);
+            font-style: normal;
+        }
+
+        .inner section {
+            margin: 100px auto;
+        }
+
+        ul {
+            list-style-type: none;
+            margin-top: -10px;
+            max-width: 570px;
+            padding: 0;
+        }
+
+        .skill-set li {
+            background: rgba(0, 0, 0, .75);
+            border-radius: 5px;
+            color: #FFF;
+            display: inline-block;
+            list-style: none;
+            margin: 15px 15px 0 0;
+            padding: 10px;
+            text-align: justify;
+        }
+
+        @media screen and (max-width: 48em) {
+
+            .right,
+            .left {
+                float: none;
+                position: relative !important;
+                width: 100%;
+                min-height: 500px;
+            }
+
+            .handmade {
+                text-align: center !important;
+                margin-top: 0px !important;
+            }
+        }
+
+        @media screen and (max-width: 75em) {
+            body {
+                font-size: 16px;
+            }
+        }
+
+        @media screen and (max-width: 60em) {
+            body {
+                font-size: 14px;
+            }
+        }
+
+        .clearfix:after {
+            content: " ";
+            visibility: hidden;
+            display: block;
+            height: 0;
+            clear: both;
+        }
+
+        .handmade {
+            text-align: right;
+            margin-top: 100px;
+        }
+
+        .handmade em {
+            font-family: 'Shadows Into Light', cursive;
+            font-size: 1.25em;
+            margin-left: 5px;
+        }
+
+        li {
+            text-align: justify;
+            margin-bottom: 10px;
+            line-height: 1.5;
+        }
+
+        li:before {
+            content: "\2022";
+            /* Bullet circle character */
+            color: #000000;
+            /* Bullet color */
+            font-weight: bold;
+            display: inline-block;
+            width: 1em;
+            /* Adjust the width as needed */
+            margin-left: -1em;
+            /* Negative margin to overlap with text */
+        }
+
+        .collapsible-content.collapsed {
+            display: none;
+        }
+    </style>
 
 </head>
 
 <body>
+    <div class="wrapper clearfix">
+        <div class="left">
+            <div class="name-hero">
+                <div class="me-img"></div>
+                <div class="name-text">
+                    <h1>Anurag <em>Bhatt</em></h1>
+                </div>
+            </div>
+        </div>
+        <div class="right">
+            <div class="inner">
+                <h1>List of important Projects</h1>
 
-	<div id="doc2" class="yui-t7">
-		<div id="inner">
+                <section>
+                    <h2><a href="https://www.tscnet.eu/">TSCNET Services GmbH</a></h2>
+                    <h3 class="collapsible" title="Click to expand/collapse">- Prediction of Overloaded Transmission
+                        Grid Elements</h3>
+                    <div class="collapsible-content collapsed">
+                        <p>Enhancing operational security for Transmission Service Operators (TSOs) through the
+                            prediction
+                            of overloaded transmission grid elements involves the following key components:</p>
+                        <ul>
+                            <li>
+                                <strong>Data Integration:</strong> We extracted relevant features from diverse data
+                                sources,
+                                including historical generation patterns, consumption data, grid topology information,
+                                and
+                                weather data. This comprehensive dataset serves as the foundation for our predictive
+                                models.
+                            </li>
+                            <li>
+                                <strong>Model Development:</strong> Nuanced predictive models were meticulously trained
+                                using the integrated dataset. These models are designed to identify potential overloaded
+                                elements within the transmission grid.
+                            </li>
+                            <li>
+                                <strong>Early Warning System:</strong> Our system provides early warnings to TSOs when
+                                the
+                                predictive models detect potential grid element overloads. This proactive approach
+                                allows
+                                TSOs to take mitigative actions in advance, reducing the risk of operational
+                                disruptions.
+                            </li>
+                            <li>
+                                <strong>Operational Insights:</strong> Throughout the project, valuable insights were
+                                generated from the analysis of grid data. These insights not only enhance data quality
+                                but
+                                also contribute to a deeper understanding of the operational dynamics of the
+                                transmission
+                                grid.
+                            </li>
+                        </ul>
+                    </div>
 
-			<div id="hd">
-				<div class="yui-gc">
-					<div class="yui-u first">
-						<h1><a href = "index.html">Anurag Bhatt</a></h1>
-						<h2>Data Scientist</h2>
-					</div>
+                    <h3 class="collapsible" title="Click to expand/collapse">- Automated Data Quality Assurance</h3>
+                    <div class="collapsible-content collapsed">
+                        <p>Ensuring the quality and reliability of data is fundamental to the success of machine
+                            learning
+                            endeavors. Our approach to Automated Data Quality Assurance (DQA) leverages the following
+                            key
+                            technologies and components:</p>
+                        <ul>
+                            <li>
+                                <strong>Data Quality Assurance (DQA):</strong> We automated the process of data quality
+                                assurance, including report generation and consistency checks. This ensures that the
+                                data
+                                used in machine learning pipelines is robust and reliable.
+                            </li>
+                            <li>
+                                <strong>Data Integration:</strong> All data streams and pipelines were integrated into
+                                our
+                                in-house PI Database. This centralized data repository facilitates efficient data
+                                management
+                                and quality control.
+                            </li>
+                            <li>
+                                <strong>Custom Solutions:</strong> Custom solutions were developed for automated
+                                monitoring
+                                using PI-SDK. These solutions enable continuous monitoring of data streams for anomalies
+                                and
+                                outliers.
+                            </li>
+                            <li>
+                                <strong>Visualization and Reporting:</strong> We created interactive dashboards and web
+                                applications for data visualization. These tools provide insights into data quality and
+                                facilitate real-time decision-making.
+                            </li>
+                            <li>
+                                <strong>Email Notifications:</strong> Automated email notifications are in place to
+                                alert
+                                relevant stakeholders when data anomalies are detected. This proactive approach ensures
+                                timely response to data quality issues.
+                            </li>
+                        </ul>
+                    </div>
+                </section>
 
-					<div class="yui-u">
-						<div class="contact-info">
-							<h3><a id="pdf" href="assets/cv/Anurag Bhatt - Data Scientist TSCNET - CV.pdf">Download
-									CV</a></h3>
-							<h3><a href="mailto:anuraag.bhatt@gmail.com">anuraag.bhatt@gmail.com</a></h3>
-						</div>
-						<!--// .contact-info -->
-					</div>
-				</div>
-				<!--// .yui-gc -->
-			</div>
-			<!--// hd -->
+                <section>
+                    <h2><a href="https://www.tataiq.com/">Tata Insights & Quants</a></h2>
 
-			<div id="bd">
-				<div id="yui-main">
-					<div class="yui-b">
+                    <h3 class="collapsible" title="Click to expand/collapse">- Unsupervised anomaly detection coupled
+                        with supervised classification</h3>
+                    <div class="collapsible-content collapsed">
+                        <p>In the realm of IoT sensor data analysis, ensuring accurate failure tagging is paramount. Our
+                            approach combines unsupervised anomaly detection with supervised classification, utilizing
+                            the following key technologies and strategies:</p>
 
-						<div class="yui-gf">
+                        <ul>
+                            <li>
+                                <strong>Unsupervised Anomaly Detection:</strong> To address the frequent absence or
+                                incorrectness of failure tagging in IoT sensor data, we implemented unsupervised anomaly
+                                detectors. These detectors utilize reconstruction error-based techniques to accurately
+                                tag time series sensor data with anomalies.
+                            </li>
+                            <li>
+                                <strong>Generation of Upstream Features:</strong> The tagged anomalies serve as valuable
+                                labels. We leveraged these labels to generate upstream features, enhancing the dataset
+                                for further analysis.
+                            </li>
+                            <li>
+                                <strong>Supervised Classifier:</strong> The enriched dataset, containing both sensor
+                                data and tagged anomalies, was utilized to train a supervised classification model. This
+                                model is designed to categorize and predict failure events accurately.
+                            </li>
+                        </ul>
+                    </div>
 
-							<div class="yui-u first">
-								<h2>TSCNET Services GmbH</h2>
-							</div>
-							<!--// .yui-u -->
+                    <h3 class="collapsible" title="Click to expand/collapse">- Machine Learning for Sticker Formation
+                        Detection</h3>
+                    <div class="collapsible-content collapsed">
+                        <p>Addressing the issue of sticker (rupture) formation on the surface of slabs cast in the steel
+                            solidification process is critical to maintaining production quality. Our approach involves
+                            machine learning techniques, bolstered by the following key technologies and strategies:</p>
+                        <ul>
+                            <li>
+                                <strong>Sticker Formation Signature:</strong> Temperature signals recorded by
+                                thermocouples embedded on the mold wall exhibit distinct signatures during sticker
+                                formation events. These signatures serve as vital indicators of the occurrence of
+                                stickers.
+                            </li>
+                            <li>
+                                <strong>Advanced Machine Learning:</strong> We employed advanced machine learning
+                                techniques for pattern recognition in time series data, specifically focusing on the
+                                innovative feature engineering to capture and characterize sticker formation signatures
+                                effectively.
+                            </li>
+                            <li>
+                                <strong>Real-World Deployment:</strong> The developed solution is currently deployed in
+                                Tata Steel's production process. It has significantly enhanced sticker detection
+                                accuracy, contributing to increased production quality and efficiency.
+                            </li>
+                        </ul>
+                    </div>
 
-							<div class="yui-u">
+                    <h3 class="collapsible" title="Click to expand/collapse">- Social Media-Based Lead Generation</h3>
+                    <div class="collapsible-content collapsed">
+                        <p>Efficient lead generation from social media platforms is a crucial aspect of modern
+                            marketing. Our approach employs the following key technologies and techniques to achieve
+                            this:</p>
+                        <ul>
+                            <li>
+                                <strong>Natural Language Processing (NLP):</strong> We harnessed the power of NLP
+                                techniques to mine content from social media platforms such as Facebook, Twitter, and
+                                others. NLP allows us to analyze and understand the language and sentiments within posts
+                                and user interactions.
+                            </li>
+                            <li>
+                                <strong>Lead Identification:</strong> Our system is designed to identify relevant posts
+                                and users who exhibit potential interest in credit products such as credit cards and
+                                loans. This involves the analysis of textual content, user behavior, and contextual
+                                information.
+                            </li>
+                            <li>
+                                <strong>Targeted Marketing:</strong> By identifying potential leads with a demonstrated
+                                interest in credit products, we enable targeted marketing campaigns. This ensures that
+                                promotional efforts are directed towards users most likely to convert, optimizing
+                                marketing ROI.
+                            </li>
+                            <li>
+                                <strong>Efficiency and Effectiveness:</strong> Our approach not only enhances lead
+                                generation but also improves the efficiency and effectiveness of marketing efforts on
+                                social media. It minimizes outreach to disinterested users and focuses on high-potential
+                                leads.
+                            </li>
+                        </ul>
+                    </div>
 
-								<div class="job">
-									<h2>Early Warning System</h2>
-									<h3 style="font-style: italic;">Key technologies: Python, Pandas, TensorFlow</h3>
-									<p>Prediction of overloaded transmission grid elements can significantly increase
-										operational security for Transmission Service Operators (TSOs). We extracted
-										relevant features from the available historical generation, consumption, grid
-										topology and weather data to train nuanced models to predict the overloaded
-										elements. The early warning was provided to the TSOs for mitigative action.
-										Insights generated during the project were leveraged to further enhance data
-										quality and gain operational understanding. </p>
-								</div>
-
-								<div class="job last">
-									<h2>Automated Data Quality Assurance</h2>
-									<h3 style="font-style: italic;">Key technologies: Python, Pandas, TensorFlow</h3>
-									<p>Quality of the available data determines the success or failure of machine
-										learning endeavors to come. Under Data Quality Assurance (DQA), we automated
-										report generation and consistency checks on all the data streams and pipelines
-										to ensure robust and reliable data. We integrated all the data streams to the
-										in-house PI Database and developed custom solutions for automated monitoring
-										using PI-SDK. This involved continuous monitoring and outlier detection in the
-										data streams, dashboards and web apps for visualization, and email
-										notifications.</p>
-								</div>
-
-							</div>
-
-						</div>
-
-						<div class="yui-gf">
-
-							<div class="yui-u first">
-								<h2>Tata Insights & Quants</h2>
-							</div>
-							<!--// .yui-u -->
-
-							<div class="yui-u">
-
-								<div class="job">
-									<h2>Unsupervised anomaly detection coupled with supervised classification</h2>
-									<h3 style="font-style: italic;">Key technologies: Python, Pandas, TensorFlow</h3>
-									<p>Failure tagging in IoT sensor data is frequently absent or incorrect. We used
-										reconstruction error based unsupervised anomaly detectors for accurate tagging
-										of the time series sensor data. This tagging was further used to generate
-										upstream features that were fed to a supervised classifier. </p>
-								</div>
-
-								<div class="job">
-									<h2>ML using sensor data</h2>
-									<h3 style="font-style: italic;">Key technologies: Python, Pandas, TensorFlow</h3>
-									<p>Sticker (rupture) formation in the surface of slab cast in the steel
-										solidification process is a major concern. Temperature signals recorded by
-										thermocouples embedded on the mold wall manifest specific signatures during such
-										sticker formation. We used advanced machine learning techniques for pattern
-										recognition of such time series signatures involving innovative feature
-										engineering techniques. The solution is currently deployed in Tata Steel,
-										boosting sticker detection accuracy and increasing production. </p>
-								</div>
-
-								<div class="job">
-									<h2>Social Media based Lead generation</h2>
-									<h3 style="font-style: italic;">Key technologies: Python, Pandas, TensorFlow</h3>
-									<p>Used NLP techniques to mine the content on social media sites like Facebook,
-										Twitter, etc. to identify posts (and users) who may be interested in credit
-										products (like cards, loans, etc.).</p>
-								</div>
-
-								<div class="job last">
-									<h2>Genetic Algorithm for vessel lineup optimization</h2>
-									<h3 style="font-style: italic;">Key technologies: Python, Pandas, TensorFlow</h3>
-									<p>Demurrage charges payed by the ships at ports are complex non-linear rates that
-										depend upon a host of factors. We developed a Genetic Algorithm based approach
-										to arrive at a feasible vessel lineup that minimizes the demurrage costs.</p>
-								</div>
-
-							</div>
-
-						</div>
-
-						<div class="yui-gf">
-
-							<div class="yui-u first">
-								<h2>GE India Innovation Centre (Aviation)</h2>
-							</div>
-							<!--// .yui-u -->
-
-							<div class="yui-u">
-
-								<div class="job last">
-									<h2>Prediction of Engine Failure</h2>
-									<h3 style="font-style: italic;">Key technologies: Python, Pandas, TensorFlow</h3>
-									<p>Used Cox’s Proportional Hazard model on the available engine generated data to
-										predict engine failure and flag the problematic engines sufficiently in advance
-										to allow for servicing. Engineered features on vibration, pressure, and
-										temperature data through taxi-takeoff- cruising-index-braking to diagnose
-										preventable ailments in the engine.</p>
-								</div>
-							</div>
-
-						</div>
+                    <h3 class="collapsible" title="Click to expand/collapse">- Vessel Lineup Optimization Using Genetic
+                        Algorithm</h3>
+                    <div class="collapsible-content collapsed">
+                        <p>Optimizing vessel lineups at ports is a complex task, especially considering the intricate
+                            demurrage charges associated with ship operations. Our approach harnesses Genetic Algorithm
+                            and leverages the following key technologies and strategies:</p>
+                        <ul>
+                            <li>
+                                <strong>Demurrage Charge Complexity:</strong> Demurrage charges incurred by ships at
+                                ports involve complex non-linear rates influenced by various factors. These factors
+                                include vessel arrival times, port congestion, cargo handling, and more.
+                            </li>
+                            <li>
+                                <strong>Genetic Algorithm-Based Optimization:</strong> We developed a Genetic Algorithm
+                                (GA) approach to address the vessel lineup optimization problem. GA is a powerful
+                                optimization technique that evolves potential solutions iteratively to arrive at an
+                                optimal or near-optimal lineup.
+                            </li>
+                            <li>
+                                <strong>Cost Minimization:</strong> The primary objective of our approach is to arrive
+                                at a feasible vessel lineup that minimizes demurrage costs. The GA considers multiple
+                                variables and constraints to achieve this goal.
+                            </li>
+                            <li>
+                                <strong>Feasibility Assessment:</strong> Our GA-based solution assesses the feasibility
+                                of vessel lineups, taking into account the complexities of port operations and demurrage
+                                charges. It aims to find lineups that are both cost-effective and operationally viable.
+                            </li>
+                        </ul>
+                    </div>
 
 
-						<!--// .yui-u -->
-					</div>
-					<!--// .yui-gf -->
+                </section>
 
-				</div>
-				<!--// .yui-b -->
-			</div>
-			<!--// yui-main -->
-		</div>
-		<!--// bd -->
+                <section>
+                    <h2><a href="https://www.ge.com/in/ge-aviation">GE India Innovation Centre (Aviation)</a></h2>
 
-		<div id="ft">
-			<p>Anurag Bhatt &mdash; <a href="mailto:anuraag.bhatt@gmail.com">anuraag.bhatt@gmail.com</a></p>
-		</div>
-		<!--// footer -->
+                    <h3 class="collapsible" title="Click to expand/collapse">- Prediction of Engine Failure</h3>
+                    <div class="collapsible-content collapsed">
+                        <p>Anticipating engine failures in advance is crucial for maintaining the reliability of
+                            machinery. Our approach leverages key technologies and techniques to predict engine failure
+                            and enable timely servicing:</p>
+                        <ul>
+                            <li>
+                                <strong>Cox's Proportional Hazard Model:</strong> We employed Cox's Proportional Hazard
+                                model to analyze available engine-generated data. This statistical model is capable of
+                                predicting the risk of engine failure, allowing us to flag problematic engines well in
+                                advance.
+                            </li>
+                            <li>
+                                <strong>Feature Engineering:</strong> Our approach involves engineering features based
+                                on various data sources, including vibration, pressure, and temperature data. These
+                                features are generated across different phases of engine operation, such as taxiing,
+                                takeoff, cruising, and braking.
+                            </li>
+                            <li>
+                                <strong>Diagnosis of Preventable Ailments:</strong> By analyzing the engineered
+                                features, we can diagnose preventable ailments in the engine. This proactive approach
+                                enables us to identify issues that can be addressed through maintenance and servicing,
+                                ultimately extending the engine's operational lifespan.
+                            </li>
+                            <li>
+                                <strong>Timely Maintenance:</strong> The primary goal is to enable timely maintenance
+                                and servicing of engines before catastrophic failures occur. By predicting engine
+                                failures in advance, we ensure the continued reliability and safety of machinery.
+                            </li>
+                        </ul>
+                    </div>
+                </section>
 
-	</div><!-- // inner -->
+                <section>
+                    <h3>Key technologies</h3>
+                    <ul class="skill-set">
+                        <li>Python</li>
+                        <li>Pandas</li>
+                        <li>TansorFlow</li>
+                    </ul>
 
+                </section>
 
-	</div>
-	<!--// doc -->
+                <section>
+                    <div id="ft">
+                        <p>Anurag Bhatt &mdash; <a href="mailto:anuraag.bhatt@gmail.com">anuraag.bhatt@gmail.com</a></p>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+    <script>
+        // JavaScript code to handle the collapsible functionality
+        const collapsibleHeadings = document.querySelectorAll('.collapsible');
 
-
+        collapsibleHeadings.forEach(heading => {
+            heading.addEventListener('click', () => {
+                const content = heading.nextElementSibling;
+                content.classList.toggle('collapsed');
+            });
+        });
+    </script>
 </body>
 
 </html>
