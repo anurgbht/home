@@ -124,14 +124,14 @@ def standard_name(name_str):
 
 
 if __name__ == "__main__":
-    excel_path = Path(ROOT_DIR, "assets", "mahabharat", "Character Map.xlsx")
+    excel_path = Path(ROOT_DIR, "Character Map.xlsx")
 
     character_df = pd.read_excel(excel_path, index_col=0)
     character_df.index = character_df.index.map(standard_name)
 
     character_dict = character_df.T.to_dict()
 
-    character_dict_path = Path(ROOT_DIR, "assets", "mahabharat", "Character Dict.json")
+    character_dict_path = Path(ROOT_DIR, "Character Dict.json")
     with open(character_dict_path, "w") as file:
         json.dump(character_dict, file, indent=4)
 
@@ -196,6 +196,6 @@ if __name__ == "__main__":
     character_map["nodes"] = node_list
     character_map["links"] = link_list
 
-    character_map_path = Path(ROOT_DIR, "assets", "mahabharat", "Character Map.json")
+    character_map_path = Path(ROOT_DIR, "Character Map.json")
     with open(character_map_path, "w") as file:
         json.dump(character_map, file, indent=4)
